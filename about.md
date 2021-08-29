@@ -33,7 +33,7 @@ layout: page
 <hr>
 
 <h2>Research Interests</h2>
-<p align="justify"> My expertise is in <b>machine learning, statistical signal processing, and computational biology</b>. I design algorithms that address the statistical and computational challenges that arises towards developing reliable, explainable, and generaliziable machine learning models in biology, chemistry, and science. My research contributes to and draws from several disciplines such as sparse optimization, high-dimensional statistics, hashing/sketching/streaming, combinatorics, and information/coding theory. Currently, I am working on the <b>foundations of large deep neural networks</b> such as language models to develop scalable inference methods for <b>protein design</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
+<p align="justify"> My expertise is in <b>machine learning, statistical signal processing, and computational biology</b>. I design algorithms that address the statistical and computational challenges that arises towards developing reliable, explainable, and generaliziable machine learning models in biology, chemistry, and science. My research contributes to and draws from several disciplines such as sparse optimization, high-dimensional statistics, hashing/sketching/streaming, combinatorics, and information/coding theory. Currently, I am working on the <b>foundations of large neural networks</b> to develop scalable and explainable inference methods for <b>protein design</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
 
 <hr>
 
