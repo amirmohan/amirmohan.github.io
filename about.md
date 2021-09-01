@@ -39,7 +39,7 @@ layout: page
 
 <h2>Education</h2>
 <ul class="skill-list">
-        <li><b>2019-now</b>    Postdoc EECS, University of California, Berkeley</li>
+        <li><b>2019-now</b>  Postdoc EECS, University of California, Berkeley</li>
         <li><b>2017-2019</b>  Postdoc EE, Stanford University</li>
         <li><b>2014-2017</b>  Ph.D. ECE, Rice University</li>
         <li><b>2010-2014</b>  M.Sc. ECE, Rice University</li>
