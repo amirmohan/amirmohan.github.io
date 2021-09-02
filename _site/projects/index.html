@@ -584,6 +584,38 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
 <div>
 <div class="side-by-side">
     <div class="toleft">
+        <img class="image" src="../assets/images/transport.png" alt="Alt Text" width="500">
+            <figcaption class="caption">Figure adapted from the Optimal Transport, Topological Data Analysis and Applications to Shape and Machine Learning <a href="https://mbi.osu.edu/events/optimal-transport-topological-data-analysis-and-applications-shape-and-machine-learning">workshop</a>, July 2020.</figcaption>
+    </div>
+
+
+    <div class="toright">
+        <p align="justify"> We model perturbations as adversarial attacks that, once viewed across data points, live in a low-dimensional subspace (low rank or group space). The key intuition is that in real-world settings perturbations are not independent across data points and share some structures that can be exploited while training. We then formulate a <b>group-structured optimal transport cost</b> and develop an optimization algorithm to train deep neural networks (DNNs) that are robust against such attacks. We showcase the effectiveness of our robust training scheme on various computational biology applications.
+        </p>
+           
+                
+                [14] F. Farnia, <b>A. Aghazadeh</b>, J. Zou, and D. Tse, <a href="https://arxiv.org/abs/2106.10324">Group-Structured Adversarial Training</a>, <em>arXiv:2106.10324</em> June 2021. <br><br>
+                
+                
+            
+        
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+<div>
+<div class="side-by-side">
+    <div class="toleft">
         <img class="image" src="../assets/images/gnk_figure.png" alt="Alt Text" width="500">
             <figcaption class="caption">Generalized NK (GNK) model and various neighborhood configurations for proteins.</figcaption>
     </div>
@@ -594,7 +626,10 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
         </p>
            
                 
-                [P2] D. Brookes, <b>A. Aghazadeh</b>, and J. Listgarten, <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445506v1.abstract">On the sparsity of fitness functions and implications for learning</a>, <em> In revision at the Proceedings of the National Academy of USA (PNAS)</em>. <br><br>
+                [13] D. Brookes, <b>A. Aghazadeh</b>, and J. Listgarten, <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445506v1.abstract">On the sparsity of fitness functions and implications for learning</a>, <em> In revision at the Proceedings of the National Academy of Sciences (PNAS)</em>. <br><br>
+                
+                
+                <a href="https://github.com/dhbrookes/FitnessSparsity">Code on Github</a> <br>
                 
 
         
@@ -611,16 +646,16 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="../assets/images/en.png" alt="Alt Text" width="500">
-            <figcaption class="caption">Regularizing DNNs using our EN method.</figcaption>
+            <figcaption class="caption">Regularizing DNNs using our Epistatic Net (EN) method.</figcaption>
     </div>
 
 
     <div class="toright">
-        <p align="justify"> <b>Epistatic Net (EN)</b> is a combinatorial algorithm to regularize deep neural networks (DNNs) to promote sparsity in their (Walsh-Hadamard) spectral transform. EN significantly improves the accuracy of DNNs in predicting biological function from sequences (e.g., proteins) especially in low-sample regimes. EN subsamples the combinatorial sequence space to induce a sparse-graph-code structure and finds the spectral tranfrom of DNNs using a peeling algorithm in every iteration of a novel ADMM-based regularization scheme.
+        <p align="justify"> <b>Epistatic Net (EN)</b> is a combinatorial algorithm to regularize deep neural networks (DNNs) to promote sparsity in their (Walsh-Hadamard) spectral transform (i.e., space of all-order interactions). EN significantly improves the accuracy of DNNs in predicting biological function from sequences (e.g., proteins) especially in low-sample regimes. EN subsamples the combinatorial sequence space to induce a sparse-graph-code structure and finds the spectral transform of DNNs using a peeling algorithm in every iteration of a novel ADMM-based regularization scheme.
         </p>
            
                 
-                [P1] <b>A. Aghazadeh</b>, H. Nisonoff, O. Ocal, Y. Huang, O. Koyluoglu, J. Listgarten, and K. Ramchandran, <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994v2">Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</a>, <em> Accepted for publication at Nature Communications</em>. <br><br>
+                [12] <b>A. Aghazadeh</b>, H. Nisonoff, O. Ocal, Y. Huang, O. Koyluoglu, J. Listgarten, and K. Ramchandran, <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994v2">Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</a>, <em> Accepted for publication at Nature Communications</em>. <br><br>
                 
         
         <a href="https://github.com/amirmohan/epistatic-net">Code on Github</a> <br>
@@ -645,14 +680,16 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
 
 
     <div class="toright">
-        <p align="justify"> <b>BEAR</b> is a second-order optimization algorithm for ultra-high dimensional feature selection in a sub-linear memory space. BEAR limits the rate of collisions of the stochastic gradients in Count Sketch and significantly improves the memory-accuracy tradeoff in feature selection.
+        <p align="justify"> <b>BEAR</b> is a second-order optimization algorithm for ultra-high dimensional feature selection with a memory space that grows sub-linearly with the problem dimension. BEAR limits the rate of collisions of the stochastic gradients in Count Sketch and drastically improves the memory-accuracy tradeoff in feature selection.
         </p>
            
                 
-                [S2] <b>A. Aghazadeh</b>, V. Gupta, A. Dewasee, O. Koyluoglu, and K. Ramchandran, <a href="https://arxiv.org/abs/2010.13829">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>, <em>Mathematical and Scientific Machine Learning (MSML)</em>, Aug. 2021. <br> <br>
+                [11] <b>A. Aghazadeh</b>, V. Gupta, A. Dewasee, O. Koyluoglu, and K. Ramchandran, <a href="https://msml21.github.io/papers/id26.pdf">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>, <em>Mathematical and Scientific Machine Learning (MSML)</em>, Aug. 2021. <br> <br>
 
         
-        <a href=" https://github.com/BEAR-algorithm/BEAR">BEAR Code on Github</a>
+        <a href=" https://github.com/BEAR-algorithm/BEAR">Code on Github</a> <br>
+        <a href="https://drive.google.com/file/d/1BzseCDh8AzGFYo34vR8TUbD0_2YS1vAM/view">My talk at MSML</a> <br>
+        <a href="https://msml21.github.io/slides/id26.pdf">My slides at MSML</a> <br>
 
         
     </div>
@@ -679,9 +716,9 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
         </p>
            
                 
-                [C3] <b>A. Aghazadeh</b>, O. Ocal, and K. Ramchandran, <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/gencompbio">CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</a>, <em> Intelligent Systems for Molecular Biology (ISMB)</em>, July 2020. <br><br>
+                [10] <b>A. Aghazadeh</b>, O. Ocal, and K. Ramchandran, <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/gencompbio">CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</a>, <em> Intelligent Systems for Molecular Biology (ISMB)</em>, July 2020. <br><br>
                 
-                [C2] <b>A. Aghazadeh</b>, O. Ocal, and K. Ramchandran, <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i560/5870525">CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</a>, <em> Bioinformatics</em>, July 2020. <br><br>
+                [9] <b>A. Aghazadeh</b>, O. Ocal, and K. Ramchandran, <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i560/5870525">CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</a>, <em> Bioinformatics</em>, July 2020. <br><br>
         
         
         <a href="https://github.com/UCBASiCS/CRISPRLand">Code on Github</a> <br>
@@ -714,7 +751,7 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
         </p>
         
                 
-                [C1] R. Leenay*, <b>A. Aghazadeh</b>*, J. Hiatt*, D. Tse, T. L. Roth, R. Apathy, E. Shifrut, J. F. Hulquist, N. Krogen, Z. Wu, G. Cirolia, H. Canaj, M. Leonetti, A. Marson, A. May, and J. Zou, <a href="https://www.nature.com/articles/s41587-019-0203-2">Large dataset enables prediction of repair after CRISPR–Cas9 editing in primary T cells</a>, <em>Nature Biotechnology</em>, July 2019. <br><br>
+                [8] R. Leenay*, <b>A. Aghazadeh</b>*, J. Hiatt*, D. Tse, T. L. Roth, R. Apathy, E. Shifrut, J. F. Hulquist, N. Krogen, Z. Wu, G. Cirolia, H. Canaj, M. Leonetti, A. Marson, A. May, and J. Zou, <a href="https://www.nature.com/articles/s41587-019-0203-2">Large dataset enables prediction of repair after CRISPR–Cas9 editing in primary T cells</a>, <em>Nature Biotechnology</em>, July 2019. <br><br>
         
         
         <a href="https://zou-group.github.io/SPROUT">SPROUT interactive software</a> <br>
@@ -744,7 +781,7 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
         </p>
         
                 
-        [S1] <b>A. Aghazadeh</b>*, R. Spring*, D. LeJeune, G. Dasarathy, A. Shrivastava and R. G. Baraniuk, <a href="https://icml.cc/Conferences/2018/ScheduleMultitrack?event=2916">MISSION: Ultra Large-Scale Feature Selection using Count Sketches</a>, <em>International Conference on Machine Learning (ICML)</em>, July 2018. <br>  <br>
+        [7] <b>A. Aghazadeh</b>*, R. Spring*, D. LeJeune, G. Dasarathy, A. Shrivastava and R. G. Baraniuk, <a href="https://icml.cc/Conferences/2018/ScheduleMultitrack?event=2916">MISSION: Ultra Large-Scale Feature Selection using Count Sketches</a>, <em>International Conference on Machine Learning (ICML)</em>, July 2018. <br>  <br>
         
     
         
@@ -773,9 +810,9 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
         </p>
     
         
-        [M3] <b>A. Aghazadeh</b>, M. Golbabaee, A. S. Lan, and R. G. Baraniuk, <a href="https://www.sciencedirect.com/science/article/pii/S016516841830121X">Insense: Incoherent sensor selection for sparse signals</a>, <em>Signal Processing</em> 150, 57-65 (2018). <br> <br>
+        [6] <b>A. Aghazadeh</b>, M. Golbabaee, A. S. Lan, and R. G. Baraniuk, <a href="https://www.sciencedirect.com/science/article/pii/S016516841830121X">Insense: Incoherent sensor selection for sparse signals</a>, <em>Signal Processing</em> 150, 57-65 (2018). <br> <br>
         
-        [M2] <b>A. Aghazadeh</b>, M. Golbabaee, A. S. Lan, and R. G. Baraniuk, <a href="https://ieeexplore.ieee.org/abstract/document/8461701">Insense: Incoherent sensor selection for sparse signals</a>, <em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, April 2018. <br>  <br>
+        [5] <b>A. Aghazadeh</b>, M. Golbabaee, A. S. Lan, and R. G. Baraniuk, <a href="https://ieeexplore.ieee.org/abstract/document/8461701">Insense: Incoherent sensor selection for sparse signals</a>, <em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, April 2018. <br>  <br>
         
         <a href="https://github.com/amirmohan/Insense">Code on Github</a> <br> <br>
         
@@ -809,7 +846,7 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
         </p>
         
         
-        [H1] <b>A. Aghazadeh</b>, A. S. Lan, A. Shrivastava and R. G. Baraniuk, <a href="https://www.ijcai.org/Proceedings/2017/0192.pdf">RHash: Robust Hashing via L∞-norm Distortion</a>, <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, Aug. 2017. <br>
+        [4] <b>A. Aghazadeh</b>, A. S. Lan, A. Shrivastava and R. G. Baraniuk, <a href="https://www.ijcai.org/Proceedings/2017/0192.pdf">RHash: Robust Hashing via L∞-norm Distortion</a>, <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, Aug. 2017. <br>
         
         
     </div>
@@ -834,7 +871,7 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
         </p>
     
         
-        [M1] <b>A. Aghazadeh</b>*, A. Y. Lin*, M. A. Sheikh*, R. A. Drezek, R. G. Baraniuk, et al., <a href="https://advances.sciencemag.org/content/2/9/e1600025?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1">Universal microbial diagnostics using random DNA probes</a>, <em>Science Advances</em> 2, e1600025 (2016). <br> <br>
+        [3] <b>A. Aghazadeh</b>*, A. Y. Lin*, M. A. Sheikh*, R. A. Drezek, R. G. Baraniuk, et al., <a href="https://advances.sciencemag.org/content/2/9/e1600025?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1">Universal microbial diagnostics using random DNA probes</a>, <em>Science Advances</em> 2, e1600025 (2016). <br> <br>
         
         
         
@@ -874,9 +911,9 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
         </p>
         
         
-        [S2] D. Sen, <b>A. Aghazadeh</b>, A. Mousavi, S. Nagarajaiah, and R. G. Baraniuk, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327018304898">Sparsity-based data-driven approaches for damage detection in plates</a>, <em>Mechanical System and Signal Processing (MSSP)</em> 117, 333-346 (2019). <br> <br>
+        [2] D. Sen, <b>A. Aghazadeh</b>, A. Mousavi, S. Nagarajaiah, and R. G. Baraniuk, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327018304898">Sparsity-based data-driven approaches for damage detection in plates</a>, <em>Mechanical System and Signal Processing (MSSP)</em> 117, 333-346 (2019). <br> <br>
             
-        [S1] D. Sen, <b>A. Aghazadeh</b>, A. Mousavi, S. Nagarajaiah, R. G. Baraniuk, and A. Dabak, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327019303784">Data-driven approaches to structural health monitoring of steel pipes</a>, <em>Mechanical System and Signal Processing (MSSP)</em> 131, 524-537 (2019).
+        [1] D. Sen, <b>A. Aghazadeh</b>, A. Mousavi, S. Nagarajaiah, R. G. Baraniuk, and A. Dabak, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327019303784">Data-driven approaches to structural health monitoring of steel pipes</a>, <em>Mechanical System and Signal Processing (MSSP)</em> 131, 524-537 (2019).
         
         
     </div>
