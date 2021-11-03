@@ -1,6 +1,6 @@
 # main text of home
 name: Amirali Aghazadeh
-bio: Postdoc at University of California, Berkeley
+bio: Postdoc at the University of California, Berkeley
 
 # twitter summary info
 description: Amirali Aghazadeh, UC Berkeley
@@ -55,7 +55,7 @@ email: amiralia@berkeley.edu
 authors:
     johndoe:
         name: Amirali Aghazadeh
-        bio: Postdoc at University of California, Berkeley
+        bio: Postdoc at the University of California, Berkeley
         external-image: false
         picture: assets/images/photo.jpg
         twitter: amiraliagz
