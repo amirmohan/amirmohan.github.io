@@ -8,13 +8,14 @@ layout: page
 
 <center style="font-size:20px"><b><b>I am on the academic job market this year.</b></b></center>
 
+<hr>
+
 <h2>News</h2>
 <ul class="skill-list">
     <li><b>July 2021</b> Our paper <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994.abstract">Epistatic Net Allows the Sparse Spectral Regularization of
     Deep Neural Networks for Inferring Fitness Functions</a>  is accepted to Nature Communications!   </li>
     <li><b>May 2021</b> Our new paper on <b>estimating the sample complexity of protein functions from protein structures using compressed sensing</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445506v1.abstract">On the sparsity of fitness functions and implications for learning</a>. </li>
     <li><b>April 2021</b> Our paper <a href="https://msml21.github.io/papers/id26.pdf">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>  is accepted to the MSML conference!   </li>
-    <li><b>Jan-March 2021</b> I am giving invited talks on <b>Inferring Biological Functions with Explainable Algorithms</b> at MSR New England, UW Madison, Johns Hopkins, TTIC.  </li>
     <li><b>November 2020</b> Our new paper on <b>combinatorial regularization of deep neural networks</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994v1">Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</a>. </li>
      <li><b>November 2020</b> I am giving a guest lecture on <u>information theory in biology</u> for the <b>EE 229A</b> class at UC Berkeley. </li>
     <li><b>November 2020</b> I am giving a talk at <b>BASICS lab in UC Berkeley</b> on <u>learning fitness landscapes: time and sample efficient algorithms for protein design</u>. </li>
@@ -33,7 +34,7 @@ layout: page
 <hr>
 
 <h2>Research Interests</h2>
-<p align="justify"> My expertise is in <b>machine learning, statistical signal processing, and computational biology</b>. I design algorithms that address the statistical and computational challenges that arises towards developing reliable, explainable, and generaliziable machine learning models in biology, chemistry, and science. My research contributes to and draws from several disciplines such as sparse optimization, high-dimensional statistics, hashing/sketching/streaming, combinatorics, and information/coding theory. Currently, I am working on the <b>foundations of neural networks and massive language models</b> for computational biology focused on develop scalable and explainable inference methods for <b>protein design, genome engineering, and molecular diagnostics</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
+<p align="justify"> My expertise is in <b>machine learning and signal processing in complex biological systems</b>. I design algorithms that address the statistical and computational challenges that arises towards developing reliable, explainable, and generaliziable machine learning models in biology, chemistry, and science. My research contributes to and draws from several disciplines such as sparse optimization, high-dimensional statistics, hashing/sketching/streaming, combinatorics, and information/coding theory. Currently, I am working on the <b>foundations of neural networks and massive language models</b> towards developing scalable and explainable inference methods for <b>protein design, genome engineering, and molecular diagnostics</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
 
 <hr>
 
