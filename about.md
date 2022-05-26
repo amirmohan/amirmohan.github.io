@@ -4,48 +4,36 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<hr>
+<h2>About me</h2>
+<p> I am a postdoctoral associate in the EECS department at UC Berkeley, where I am affiliated with the <a href="https://bair.berkeley.edu">Berkeley AI Laboratory (BAIR)</a> and <a href="https://bliss.eecs.berkeley.edu">Berkeley Laboratory for Information and System Sciences (BLISS)</a>. </p>
 
-<center style="font-size:20px"><b><b>I am on the academic job market this year.</b></b></center>
+
+
+<p> The goal of my research is to find innovative mathematical solutions to problems in science and medicine using advances in probabilistic modeling, learning, and inference. I develop new foundational algorithms motivated by real-world applications, focusing on emerging areas that bridges electrical engineering and computer sciences to biology, physics and chemistry. </p>
+
 
 <hr>
 
 <h2>News</h2>
 <ul class="skill-list">
-    <li><b>July 2021</b> Our paper <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994.abstract">Epistatic Net Allows the Sparse Spectral Regularization of
-    Deep Neural Networks for Inferring Fitness Functions</a>  is accepted to Nature Communications!   </li>
-    <li><b>May 2021</b> Our new paper on <b>estimating the sample complexity of protein functions from protein structures using compressed sensing</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445506v1.abstract">On the sparsity of fitness functions and implications for learning</a>. </li>
-    <li><b>April 2021</b> Our paper <a href="https://msml21.github.io/papers/id26.pdf">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>  is accepted to the MSML conference!   </li>
-    <li><b>November 2020</b> Our new paper on <b>combinatorial regularization of deep neural networks</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994v1">Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</a>. </li>
-     <li><b>November 2020</b> I am giving a guest lecture on <u>information theory in biology</u> for the <b>EE 229A</b> class at UC Berkeley. </li>
-    <li><b>November 2020</b> I am giving a talk at <b>BASICS lab in UC Berkeley</b> on <u>learning fitness landscapes: time and sample efficient algorithms for protein design</u>. </li>
-    <li><b>October 2020</b> BEAR is on arXiv. Check it out here <a href="https://arxiv.org/abs/2010.13829">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>.</li>
-    <li><b>September 2020</b> Our collaborative work with the Chemistry Department on <b>Explainable AI for Electron Microscopy</b> is on ChemRxiv. Check out here <a href="https://chemrxiv.org/articles/preprint/Anomalous_Nanoparticle_Surface_Diusion_in_Liquid_Cell_TEM_is_Revealed_by_Deep_Learning-Assisted_Analysis/12894050">Anomalous Nanoparticle Surface Diffusion in Liquid Cell TEM is Revealed by Deep Learning-Assisted Analysis</a>.</li>
-    <li><b>August 2020</b> I will be presenting a spotlight talk on <u>Black-box Interpretation of Neural Networks using Sparse-Fourier algorithms</u> at the <b>Fall 2020 BAIR/BDD Workshop at UC Berkeley</b>.</li>
-    <li><b>July 2020</b> I will be presenting <u>CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</u> at the <b>ISMB conference</b>. </li>
-    <li><b>July 2020</b> CRISPRLand got accepted to the <b>ISMB conference</b>, check out the draft at <b>Bioinformatics</b> <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i560/5870525">CRISPRL and: Interpretable large-scale inference of DNA repair landscape based on a spectral approach</a>.</li>
-
-
+    <li><b>April 2022</b> Paper accepted to Nature Communications <a href="https://www.nature.com/articles/s41467-022-29268-7"> &#91;read more&#93;</a></li>
+    <li><b>Jan 2022</b> Paper accepted to PNAS <a href="https://www.pnas.org/content/119/1/e2109649118.short">&#91;read more&#93;</a></li>
+    <li><b>Spring 2022</b> Invited talks at Northwestern, CMU, NYU, BU, PSU, UCSC, USC, and GTech. </li>
+    <li><b>July 2021</b> Paper accepted to Nature Communications <a href="https://www.nature.com/articles/s41467-021-25371-3">&#91;read more&#93;</a></li>
+    <li><b>April 2021</b> Paper accepted to the MSML Conference <a href="https://par.nsf.gov/servlets/purl/10297069">&#91;read more&#93;</a></li> 
+    </ul>
 <hr>
 
-<h2>Biography</h2>
-<p align="justify"> I am a postdoctoral associate at the <b>University of California, Berkeley</b> in the Department of Electrical Engineering and Computer Science (EECS). I work with <b>Prof. Kannan Ramchandran</b> in the Berkeley Laboratory for Information and System Sciences (BLISS). I also collaborate with <b>Prof. Jennifer Listgarten</b> in the Berkeley Artificial Intelligence Research (BAIR) lab. Prior to that, I was a Postdoctoral Associate at <b>Stanford University</b> working with <b>Prof. David Tse</b>, where I also had collaborations with the <b>Chan Zuckerberg Biohub</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at <b>Rice University</b> with <b>Prof. Richard Baraniuk</b>. I did my undergraduate studies in the Electrical Engineering (EE) Department at <b>Sharif University of Technology</b>.</p>
-
-<hr>
-
-<h2>Research Interests</h2>
-<p align="justify"> My expertise is in <b>machine learning and signal processing in complex biological systems</b>. I design algorithms that address the statistical and computational challenges that arises towards developing reliable, explainable, and generaliziable machine learning models in biology, chemistry, and science. My research contributes to and draws from several disciplines such as sparse optimization, high-dimensional statistics, hashing/sketching/streaming, combinatorics, and information/coding theory. Currently, I am working on the <b>foundations of neural networks and massive language models</b> towards developing scalable and explainable inference methods for <b>protein design, genome engineering, and molecular diagnostics</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
-
-<hr>
 
 <h2>Education</h2>
 <ul class="skill-list">
-        <li><b>2019-now</b>  Postdoc EECS, University of California, Berkeley</li>
-        <li><b>2017-2019</b>  Postdoc EE, Stanford University</li>
-        <li><b>2014-2017</b>  Ph.D. ECE, Rice University</li>
-        <li><b>2010-2014</b>  M.Sc. ECE, Rice University</li>
+        <li><b>2019-now</b>  Postdoc (with Kannan Ramchandran) EECS, UC Berkeley</li>
+        <li><b>2017-2019</b>  Postdoc (with David Tse) EE, Stanford University</li>
+        <li><b>2014-2017</b>  Ph.D. ECE (with Richard Baraniuk), Rice University</li>
+        <li><b>2010-2014</b>  M.Sc. ECE (with Richard Baraniuk), Rice University</li>
 	<li><b>2006-2010</b>  B.Sc. EE, Sharif University</li>
-</ul>
+     </ul>   
+
 
 <hr>
 
@@ -57,5 +45,5 @@ layout: page
         <li><b>2013</b> NASA Space Health Innovation Award</li>
         <li><b>2010</b> Texas Instruments Fellowship</li>
 
-</ul>
+
 
