@@ -9,7 +9,7 @@ layout: page
 
 
 
-<p> The goal of my research is to find innovative mathematical solutions to problems in science and medicine using advances in probabilistic modeling, learning, and inference. I develop new foundational algorithms motivated by real-world applications, focusing on emerging areas that bridges electrical engineering and computer sciences to biology, physics and chemistry. </p>
+<p> The goal of my research is to find innovative <b>mathematical solutions to problems in science and medicine</b> using advances in <b>probabilistic modeling, learning, and inference</b>. I develop new foundational algorithms motivated by real-world applications, focusing on emerging areas that bridge electrical engineering and computer sciences to biological and physical sciences. </p>
 
 
 <hr>
@@ -18,7 +18,7 @@ layout: page
 <ul class="skill-list">
     <li><b>April 2022</b> Paper accepted to Nature Communications <a href="https://www.nature.com/articles/s41467-022-29268-7"> &#91;read more&#93;</a></li>
     <li><b>Jan 2022</b> Paper accepted to PNAS <a href="https://www.pnas.org/content/119/1/e2109649118.short">&#91;read more&#93;</a></li>
-    <li><b>Spring 2022</b> Invited talks at Northwestern, CMU, NYU, BU, PSU, UCSC, USC, and GTech. </li>
+    <li><b>Spring 2022</b> Invited talks at Northwestern, CMU, NYU, BU, PSU, UCSC, USC, UWaterloo, and GTech. </li>
     <li><b>July 2021</b> Paper accepted to Nature Communications <a href="https://www.nature.com/articles/s41467-021-25371-3">&#91;read more&#93;</a></li>
     <li><b>April 2021</b> Paper accepted to the MSML Conference <a href="https://par.nsf.gov/servlets/purl/10297069">&#91;read more&#93;</a></li> 
     </ul>
