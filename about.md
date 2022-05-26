@@ -37,7 +37,7 @@ layout: page
 
 <hr>
 
-<h2>Selected Awards</h2>
+<h2>Selected awards</h2>
 <ul class="skill-list">
         <li><b>2020</b> Berkeley Postdoctoral Association Professional Development Award </li>
         <li><b>2017</b> Hershel M. Rich Invention Award</li>
