@@ -1,5 +1,5 @@
 current directory: /Users/amirali/Dropbox/amirmohan.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.4/ext/commonmarker
-/Users/amirali/.rvm/rubies/ruby-2.7.2/bin/ruby -I /Users/amirali/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20220525-96138-508nfc.rb extconf.rb
+/Users/amirali/.rvm/rubies/ruby-2.7.1/bin/ruby -I /Users/amirali/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20220526-65732-1cmcr3t.rb extconf.rb
 creating Makefile
 
 current directory: /Users/amirali/Dropbox/amirmohan.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.4/ext/commonmarker
@@ -27,43 +27,43 @@ In file included from ./houdini.h:9:
 ./config.h:8:9: warning: 'HAVE_STDBOOL_H' macro redefined [-Wmacro-redefined]
 #define HAVE_STDBOOL_H
         ^
-/Users/amirali/.rvm/rubies/ruby-2.7.2/include/ruby-2.7.0/x86_64-darwin21/ruby/config.h:27:9: note: previous definition is here
+/Users/amirali/.rvm/rubies/ruby-2.7.1/include/ruby-2.7.0/x86_64-darwin21/ruby/config.h:27:9: note: previous definition is here
 #define HAVE_STDBOOL_H 1
         ^
 commonmarker.c:565:20: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
   extensions_len = RARRAY_LEN(rb_extensions);
                  ~ ^~~~~~~~~~~~~~~~~~~~~~~~~
-/Users/amirali/.rvm/rubies/ruby-2.7.2/include/ruby-2.7.0/ruby/ruby.h:1070:23: note: expanded from macro 'RARRAY_LEN'
+/Users/amirali/.rvm/rubies/ruby-2.7.1/include/ruby-2.7.0/ruby/ruby.h:1070:23: note: expanded from macro 'RARRAY_LEN'
 #define RARRAY_LEN(a) rb_array_len(a)
                       ^~~~~~~~~~~~~~~
 commonmarker.c:1179:27: warning: implicit conversion loses integer precision: 'long' to 'bufsize_t' (aka 'int') [-Wshorten-64-to-32]
                           RSTRING_LEN(rb_text))) {
                           ^~~~~~~~~~~~~~~~~~~~
-/Users/amirali/.rvm/rubies/ruby-2.7.2/include/ruby-2.7.0/ruby/ruby.h:1007:6: note: expanded from macro 'RSTRING_LEN'
+/Users/amirali/.rvm/rubies/ruby-2.7.1/include/ruby-2.7.0/ruby/ruby.h:1007:6: note: expanded from macro 'RSTRING_LEN'
      RSTRING_EMBED_LEN(str) : \
      ^~~~~~~~~~~~~~~~~~~~~~
-/Users/amirali/.rvm/rubies/ruby-2.7.2/include/ruby-2.7.0/ruby/ruby.h:1003:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+/Users/amirali/.rvm/rubies/ruby-2.7.1/include/ruby-2.7.0/ruby/ruby.h:1003:6: note: expanded from macro 'RSTRING_EMBED_LEN'
      (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 commonmarker.c:1179:27: warning: implicit conversion loses integer precision: 'long' to 'bufsize_t' (aka 'int') [-Wshorten-64-to-32]
                           RSTRING_LEN(rb_text))) {
                           ^~~~~~~~~~~~~~~~~~~~
-/Users/amirali/.rvm/rubies/ruby-2.7.2/include/ruby-2.7.0/ruby/ruby.h:1008:28: note: expanded from macro 'RSTRING_LEN'
+/Users/amirali/.rvm/rubies/ruby-2.7.1/include/ruby-2.7.0/ruby/ruby.h:1008:28: note: expanded from macro 'RSTRING_LEN'
      RSTRING(str)->as.heap.len)
      ~~~~~~~~~~~~~~~~~~~~~~^~~
 commonmarker.c:1200:28: warning: implicit conversion loses integer precision: 'long' to 'bufsize_t' (aka 'int') [-Wshorten-64-to-32]
                            RSTRING_LEN(rb_text), 0)) {
                            ^~~~~~~~~~~~~~~~~~~~
-/Users/amirali/.rvm/rubies/ruby-2.7.2/include/ruby-2.7.0/ruby/ruby.h:1007:6: note: expanded from macro 'RSTRING_LEN'
+/Users/amirali/.rvm/rubies/ruby-2.7.1/include/ruby-2.7.0/ruby/ruby.h:1007:6: note: expanded from macro 'RSTRING_LEN'
      RSTRING_EMBED_LEN(str) : \
      ^~~~~~~~~~~~~~~~~~~~~~
-/Users/amirali/.rvm/rubies/ruby-2.7.2/include/ruby-2.7.0/ruby/ruby.h:1003:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+/Users/amirali/.rvm/rubies/ruby-2.7.1/include/ruby-2.7.0/ruby/ruby.h:1003:6: note: expanded from macro 'RSTRING_EMBED_LEN'
      (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 commonmarker.c:1200:28: warning: implicit conversion loses integer precision: 'long' to 'bufsize_t' (aka 'int') [-Wshorten-64-to-32]
                            RSTRING_LEN(rb_text), 0)) {
                            ^~~~~~~~~~~~~~~~~~~~
-/Users/amirali/.rvm/rubies/ruby-2.7.2/include/ruby-2.7.0/ruby/ruby.h:1008:28: note: expanded from macro 'RSTRING_LEN'
+/Users/amirali/.rvm/rubies/ruby-2.7.1/include/ruby-2.7.0/ruby/ruby.h:1008:28: note: expanded from macro 'RSTRING_LEN'
      RSTRING(str)->as.heap.len)
      ~~~~~~~~~~~~~~~~~~~~~~^~~
 6 warnings generated.
@@ -98,4 +98,4 @@ linking shared-object commonmarker/commonmarker.bundle
 
 current directory: /Users/amirali/Dropbox/amirmohan.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.4/ext/commonmarker
 make "DESTDIR=" install
-/usr/local/opt/coreutils/bin/ginstall -c -m 0755 commonmarker.bundle ./.gem.20220525-96138-frjnuu/commonmarker
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 commonmarker.bundle ./.gem.20220526-65732-1syoeyu/commonmarker

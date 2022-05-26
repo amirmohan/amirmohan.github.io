@@ -5,11 +5,11 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h2>About me</h2>
-<p> I am a postdoctoral associate in the EECS department at UC Berkeley, where I am affiliated with the <a href="https://bair.berkeley.edu">Berkeley AI Laboratory (BAIR)</a> and <a href="https://bliss.eecs.berkeley.edu">Berkeley Laboratory for Information and System Sciences (BLISS)</a>. </p>
+<p align="justify"> I am a postdoctoral associate in the EECS department at UC Berkeley, where I am affiliated with the <a href="https://bair.berkeley.edu">Berkeley AI Laboratory (BAIR)</a> and <a href="https://bliss.eecs.berkeley.edu">Berkeley Laboratory for Information and System Sciences (BLISS)</a>. </p>
 
 
 
-<p> The goal of my research is to find innovative <b>mathematical solutions to problems in science and medicine</b> using advances in <b>probabilistic modeling, learning, and inference</b>. I develop new foundational algorithms motivated by real-world applications, focusing on emerging areas that bridge electrical engineering and computer sciences to biological and physical sciences. </p>
+<p align="justify"> The goal of my research is to find innovative <b>mathematical solutions to problems in science and medicine</b> by developing <b>probabilistic modeling, learning, and inference</b> methods that work <b>efficiently at scale</b>. I build foundational algorithms motivated by real-world applications, focusing on emerging areas that bridge electrical engineering and computer sciences to biological and physical sciences.  </p>
 
 
 <hr>

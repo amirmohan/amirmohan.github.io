@@ -1,5 +1,5 @@
 current directory: /Users/amirali/Dropbox/amirmohan.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/Users/amirali/.rvm/rubies/ruby-2.7.2/bin/ruby -I /Users/amirali/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20220525-96138-frhsdd.rb extconf.rb
+/Users/amirali/.rvm/rubies/ruby-2.7.1/bin/ruby -I /Users/amirali/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20220526-65732-1bxgvxh.rb extconf.rb
 creating Makefile
 
 current directory: /Users/amirali/Dropbox/amirmohan.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
@@ -17,4 +17,4 @@ linking shared-object ruby_http_parser.bundle
 
 current directory: /Users/amirali/Dropbox/amirmohan.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20220525-96138-qxks44
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20220526-65732-1igyus6
