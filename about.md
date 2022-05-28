@@ -5,17 +5,22 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h2>About me</h2>
-<p align="justify"> I am a postdoctoral associate in the EECS department at UC Berkeley, where I am affiliated with the <a href="https://bair.berkeley.edu">Berkeley AI Laboratory (BAIR)</a> and <a href="https://bliss.eecs.berkeley.edu">Berkeley Laboratory for Information and System Sciences (BLISS)</a>. </p>
+
+
+<font color="green"> <b>I am joining the ECE department at Georgia Tech as an assistant professor.</b> </font>
+
+<p align="justify"> Currently, I am a postdoctoral associate in the EECS department at UC Berkeley, where I am affiliated with the <a href="https://bair.berkeley.edu">Berkeley AI Laboratory (BAIR)</a> and <a href="https://bliss.eecs.berkeley.edu">Berkeley Laboratory for Information and System Sciences (BLISS)</a>. </p>
 
 
 
-<p align="justify"> The goal of my research is to find innovative <b>mathematical solutions to problems in science</b> by developing <b>probabilistic modeling, learning, and inference</b> methods that work <b>efficiently at scale</b>. I build foundational algorithms motivated by real-world applications, focusing on emerging areas that bridge <b>signal processing and machine learning with biotechnology</b>.  </p>
+<p align="justify"> The goal of my research is to find innovative <b>statistical and computational solutions to problems in sciences</b> by developing probabilistic modeling, learning, and inference methods that work <b>efficiently at large scale</b>. I build foundational algorithms motivated by real-world applications, focusing on emerging areas that bridge <b>machine learning, optimization, and high-dimensional statistics with biotechnology</b>.  </p>
 
 
 <hr>
 
 <h2>News</h2>
 <ul class="skill-list">
+    <li><b>May 2022</b> I am joining the ECE department </li>
     <li><b>April 2022</b> Paper accepted to Nature Communications <a href="https://www.nature.com/articles/s41467-022-29268-7"> &#91;read more&#93;</a></li>
     <li><b>Jan 2022</b> Paper accepted to PNAS <a href="https://www.pnas.org/content/119/1/e2109649118.short">&#91;read more&#93;</a></li>
     <li><b>Spring 2022</b> Invited talks at Northwestern, CMU, NYU, BU, PSU, UCSC, USC, UWaterloo, and GTech. </li>
