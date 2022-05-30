@@ -17,7 +17,7 @@ layout: page
 
 <ul class="skill-list">
     <li><b>ML/AI for science</b>: Protein/small molecule design and engineering </li>
-    <li><b>Core ML/AI</b>: Interpretability and trustworthiness in learning over combinatorial spaces </li>
+    <li><b>Core ML/AI</b>: Interpretability, robustness, and generalizaiton in learning over combinatorial spaces </li>
     <li><b>Scalable ML/AI</b>: Exploiting sparsity in discriminative and generative modeling</li>
     </ul>
 
