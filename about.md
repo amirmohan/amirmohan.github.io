@@ -13,12 +13,12 @@ layout: page
 
 
 
-<p align="justify"> The goal of my research is to find innovative <b>statistical and computational solutions to problems in sciences</b> by developing probabilistic modeling, learning, and inference methods that work <b>efficiently at large scale</b>. I build foundational algorithms motivated by real-world applications, focusing on emerging areas that bridge <b>machine learning, optimization, and high-dimensional statistics with biotechnology</b>. Current focus are:  </p>
+<p align="justify"> The goal of my research is to find innovative <b>statistical and computational solutions to problems in the sciences</b> by developing probabilistic modeling, learning, and inference methods that work <b>efficiently at large scale</b>. I build foundational algorithms motivated by real-world applications, focusing on emerging areas that bridge <b>machine learning, optimization, and high-dimensional statistics with biology, chemistry, and physics</b>. Current focus are:  </p>
 
 <ul class="skill-list">
     <li><b>ML/AI for science</b>: Protein/small molecule design and engineering </li>
-    <li><b>Core ML/AI</b>: Interpretability, robustness, and generalizaiton in learning over combinatorial spaces </li>
-    <li><b>Scalable ML/AI</b>: Exploiting sparsity in discriminative and generative modeling</li>
+    <li><b>Core ML/AI</b>: Interpretability, robustness, and generalizaiton in combinatorial spaces </li>
+    <li><b>Scalable ML/AI</b>: Exploiting sparsity in massive-scale language models</li>
     </ul>
 
 
