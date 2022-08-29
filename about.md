@@ -8,13 +8,13 @@ layout: page
 
 <h2>About me</h2>
  
-<p align="justify"> I am an Assistant Professor of Electrical and Computer Engineering (ECE) at Georgia Tech. I am also a Program Faculty of ML PhD Program and Bioinformatics Graduate Program and an affiliated faculty at the Institute for Data Science and Engineering (IDEAS). Previously, I was a postdoctoral associate in the EECS department at UC Berkeley and EE department at Stanford. </p>
+<p align="justify"> I am an Assistant Professor of Electrical and Computer Engineering (ECE) at Georgia Tech. I am also a program faculty of the ML PhD, Bioinformatics Graduate, and Bioengineering Interdisciplinary PhD programs and an affiliated faculty at the Institute for Data Science and Engineering (IDEAS). Previously, I was a postdoctoral associate in the EECS department at UC Berkeley and EE department at Stanford. </p>
 
 
 <p align="justify"> The goal of my research is to find innovative <b>statistical and computational solutions to problems in the sciences</b> by developing probabilistic modeling, learning, and inference methods that work <b>efficiently at large scale</b>. I build foundational algorithms motivated by real-world applications, focusing on emerging areas that bridge <b>machine learning, optimization, and high-dimensional statistics with biology, chemistry, and physics</b>. Current focus are:  </p>
 
 <ul class="skill-list">
-    <li><b>ML/AI for science</b>: protein/small molecule design, engineering, and sensing</li>
+    <li><b>ML/AI for science</b>: protein/small molecule design, engineering, and optimization</li>
     <li><b>Core ML/AI</b>: interpretability, robustness, and generalizaiton in deep learning</li>
     <li><b>Scalable ML/AI</b>: exploiting sparsity/low-dimensionality to accelerate inference</li>
     </ul>
