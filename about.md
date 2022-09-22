@@ -24,6 +24,7 @@ layout: page
 
 <h2>News</h2>
 <ul class="skill-list">
+    <li><b>Aug 2022</b> We welcome new Masters students to the group: Tony Tu (from CS), Pratiksha Pai (from ECE), and Gautham Sankar (from Bioinformatics).  </li>
     <li><b>Aug 2022</b> I am joining the school of ECE at Georgia Tech as an assistant professor. </li>
     <li><b>April 2022</b> Paper accepted to Nature Communications <a href="https://www.nature.com/articles/s41467-022-29268-7"> &#91;read more&#93;</a></li>
     <li><b>Jan 2022</b> Paper accepted to PNAS <a href="https://www.pnas.org/content/119/1/e2109649118.short">&#91;read more&#93;</a></li>
