@@ -6,7 +6,7 @@ layout: page
 
 <hr>
 
-<p align="justify"> <font color="red"> <b>Announcement: I am looking for PhD students starting Spring/Fall 2023.</b> We are a group passionate about ML/AI, their mathematical foundations, and cutting edge applications in science. If you also share our interest towards ML/AI please email me your CV and a summary of your interests to <b> amiralia AT gatech DOT edu</b>. Note that I accept students from different channels: ECE, ML PhD, Bioinformatics, and Interdisciplirnay Bioengineering Graduate programs. </font> <p>
+<p align="justify"> <font color="red"> <b>Announcement: I am looking for PhD students starting Spring/Fall 2023.</b> We are a group passionate about ML/AI, their mathematical foundations, and cutting edge applications in science. If you also share our interest towards ML/AI please email me your CV and a summary of your interests to <b> amiralia AT gatech DOT edu</b>. Note that I accept students from different programs: ECE, ML, Bioinformatics, and Interdisciplirnay Bioengineering PhD programs. </font> <p>
 
 <hr>
 
