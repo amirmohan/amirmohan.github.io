@@ -6,7 +6,7 @@ layout: page
 
 <hr>
 
-<p align="justify"> <font color="red"> <b>Announcement: We have openings for PhD students to start in Spring or Fall 2023.</b> We are a group passionate about ML/AI, their mathematical foundations, and cutting edge applications in science. If you also share our interest towards ML/AI please email me your CV and a summary of your interests to <b> amiralia@gatech.edu</b>. I accept students from the following programs: ECE, ML, Bioinformatics, and Interdisciplirnay Bioengineering PhD programs. </font> <p>
+<p align="justify"> <font color="red"> <b>Announcement: We have openings for PhD students to start in Spring or Fall 2023.</b> We are a group passionate about ML/AI, their mathematical foundations, and cutting edge applications in science. If you share our interest towards ML/AI and have a strong programing or mathematical background, please email me your CV and a summary of your interests to <b> amiralia@gatech.edu</b>. I accept students from the following programs: ECE, ML, Bioinformatics, and Interdisciplinary Bioengineering PhD programs. </font> <p>
 
 <hr>
 
