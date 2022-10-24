@@ -6,12 +6,13 @@ layout: page
 
 <hr>
 
-<p align="justify"> <font color="red"> <b>Announcement: We have openings for PhD students to start in Spring or Fall 2023.</b> We are a group passionate about ML/AI, their mathematical foundations (e.g., generalization, robustness, and regularization), and cutting edge applications in science (e.g., protein and small molecule design). If you share our interest towards ML/AI and have a strong programing or mathematical background, please email me your CV and a summary of your interests to <b> amiralia@gatech.edu</b>. I accept students from the following programs at GT: ECE, ML, Bioinformatics, and Interdisciplinary Bioengineering PhD programs. </font> <p>
+<p align="justify"> <font color="red"> <b>Announcement: We have openings for PhD students to start in Fall 2023.</b> We are a group passionate about ML/AI, their mathematical foundations (e.g., generalization, regularization, and interpretation), and cutting edge applications in science (e.g., protein and small molecule design). If you share our interest towards ML/AI and have a strong programing or mathematical background, please email me your CV and a summary of your interests to <b> amiralia@gatech.edu</b>. I accept students from the following programs at GT: ECE, ML, Bioinformatics, and Interdisciplinary Bioengineering PhD programs. </font> <p>
 
 <hr>
 
 <h2>news</h2>
 <ul class="skill-list">
+    <li><b>Aug 2022</b> Gautham receives the MS Bioinformatics GRA award. </li>
     <li><b>Aug 2022</b> We welcome new Masters students to the group: Tony Tu (from CS), Pratiksha Pai (from ECE), and Gautham Sankar (from Bioinformatics).  </li>
     <li><b>Aug 2022</b> I am joining the school of ECE at Georgia Tech as an Assistant Professor. </li>
     <li><b>April 2022</b> Paper accepted to Nature Communications <a href="https://www.nature.com/articles/s41467-022-29268-7"> &#91;read more&#93;</a></li>
