@@ -2,29 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gatech.edu'>Georgia Tech</a>
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Coda S1209</p>
-    <p>Tech Square</p>
-    <p>Atlanta, GA 30308</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I am also a program faculty of [Machine Learning](https://ml.gatech.edu/phd), [Bioinformatics](https://bioinformatics.gatech.edu), and [Bioengineering](https://bioengineering.gatech.edu) PhD programs. I am affiliated with the Institute for Data Engineering and Science (IDEAS). Before joining Georgia Tech, I was a postdoc at Stanford and UC Berkeley.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I am interested in <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Computational Biology</b>. My research goal is to advance how Machines can Learn, Predict, and Adapt <b>at scale</b> to solve emerging problems in Sciences from biology to chemistry and physics. Current research focus are:
-<ul class="skill-list">
-    <li><b>ML/AI for Science</b>: generative modeling for protein design</li>
-    <li><b>Core ML/AI</b>: interpretability and robustness in combinatorial spaces</li>
-    <li><b>Scalable ML/AI</b>: exploiting sparsity to accelerate inference</li>
-    </ul>
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-I pronounce my first name <a href='https://www.youtube.com/watch?v=T6GOCS5fmeg&t=4s'>/æmi:r'æli:/</a> and last name <a href='https://www.youtube.com/watch?v=6efdOZye2Ig'>/ægə'zɑdɛ/</a>.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
