@@ -1,0 +1,50 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Amirali Aghazadeh
+    - name: Citizenship
+      value: United States
+    - name: Languages
+      value: English, Farsi
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Postdoc
+      institution: University of California, Berkeley, CA
+      year: 2019-2022
+      description:
+        - Advisor Kannan Ramchandran
+        - Collaborator Jennifer Listgarten Group
+        
+    - title: Postdoc
+      institution: Stanford University, CA
+      year: 2017-2019
+      description:
+        - Advisor David Tse
+        
+    - title: PhD
+      institution: Rice University, Houston, TX
+      year: 2017
+      description:
+        - Advisor Richard Baraniuk
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - ICML Top Reviewer Award
+        - Berkeley Postdoctoral Association Professional Development Award
+    - year: 2017
+      items: 
+        - Hershel M. Rich Invention Award
+        - Schlumberger Best PhD Presenter Award
+    - year: 2016
+      items:
+        - Biological Data Science Meeting Travel Grant
+    - year: 2010
+      items:
+        - Texas Instruments Fellowship
+

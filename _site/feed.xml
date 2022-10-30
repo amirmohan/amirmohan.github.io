@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-10-30T18:04:58-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">epistatic net</title><link href="http://localhost:4000/blog/2021/epistatic-net/" rel="alternate" type="text/html" title="epistatic net" /><published>2021-09-01T00:00:00-04:00</published><updated>2021-09-01T00:00:00-04:00</updated><id>http://localhost:4000/blog/2021/epistatic-net</id><content type="html" xml:base="http://localhost:4000/blog/2021/epistatic-net/"><![CDATA[<p align="justify"> I wrote a thread on the motivation and appraoch we took in explaining neural networks trained for protein inference tasks in terms of higher order epistatic interactions and regularizing them to induce sparisty. Follow the thread below to read more on <a href="https://twitter.com/amiraliagz/status/1433166561892765697">Epistatic Net</a>:
+</p>
+
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/twit-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/twit-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/twit-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/twit.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>]]></content><author><name>Amirali Aghazadeh</name></author><summary type="html"><![CDATA[notes on our biologically-relevant regularization scheme for deep networks]]></summary></entry></feed>
