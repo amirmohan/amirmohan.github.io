@@ -7,7 +7,7 @@ inline: false
 
 We have multiple openings for PhD students to start in Fall 2023. If you are interested please email me your CV, transcript, and a summary of your interests to amiralia@gatech.edu. 
 
-#### Please consider applying to one these programs:
+#### Please consider applying to these programs:
 <ul>
     <li>ECE PhD program</li>
     <li>Machine Learning PhD Program (hosted at ECE)</li>
