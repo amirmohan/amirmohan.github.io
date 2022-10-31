@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I am also a program faculty of [Machine Learning](https://ml.gatech.edu/phd), [Bioinformatics](https://bioinformatics.gatech.edu), and [Bioengineering](https://bioengineering.gatech.edu) PhD programs. I have affiliations with the Institute for Data Engineering and Science (IDEAS). Before joining Georgia Tech, I was a postdoc at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu) and I did my PhD at [Rice University](https://www.rice.edu/).
 
-I am interested in <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Computational Biology</b>. My research goal is to advance how Machines can Learn, Predict, and Adapt <b>at scale</b> to solve emerging problems in Sciences from biology to chemistry and physics. Current research focus are:
+I am interested in <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Computational Biology</b>. My research goal is to advance how Machines can Learn, Predict, and Adapt <b>at scale</b> to solve problems in and inspired by emerging Technologies and Sciences (from biology to chemistry and physics). Current research focus are:
 <ul class="skill-list">
     <li><b>ML/AI for Science</b>: generative modeling for protein design</li>
     <li><b>Core ML/AI</b>: interpretability and robustness in combinatorial spaces</li>

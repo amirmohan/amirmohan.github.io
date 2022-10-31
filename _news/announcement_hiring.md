@@ -5,12 +5,12 @@ date: 2022-10-05 16:11:00-0400
 inline: false
 ---
 
-We have multiple openings for PhD students to start in Fall 2023. If you are interested please email me your CV, transcript, and a summary of your interests to amiralia@gatech.edu. 
+We have multiple openings for PhD students to start in Fall 2023. If you are have strong programming (python, pytorch, language processing toolkits) or mathematical background (optimization, statistics, learning theory) please email me your <b>CV</b>, <b>transcript</b>, and a <b>summary of your interests</b> to amiralia@gatech.edu. 
 
 #### Please consider applying to these programs:
 <ul>
     <li>ECE PhD program</li>
-    <li>Machine Learning PhD Program (hosted at ECE)</li>
+    <li>Machine Learning PhD Program</li>
     <li>Bioinformatics PhD Program</li>
     <li>Interdisciplinary Bioengineering PhD Program</li>
 </ul>
