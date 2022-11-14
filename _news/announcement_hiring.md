@@ -16,7 +16,7 @@ We have multiple openings for PhD students to start in Fall 2023. If you have st
 </ul>
 
 
->I appoligize if I cannot respond to all the requests. Regardless, please apply to the program of your interest and mention my name in your application.
+>I apologize if I cannot respond to all the requests. Regardless, please apply to the program of your interest and mention my name in your application.
 >
 
 
