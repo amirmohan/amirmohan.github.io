@@ -5,7 +5,7 @@ permalink: /group/
 description: 
 nav: true
 nav_order: 2
-display_categories: [PhD,MS,Alum]
+display_categories: [PhD,MS,Undergrad,Alum]
 horizontal: false
 ---
 <!-- pages/projects.md -->
