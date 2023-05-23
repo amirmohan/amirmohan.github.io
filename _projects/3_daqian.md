@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yun-Feng Lo
+title: Daqian Bao
 description: ML PhD Rot. (Summer 2023-) <Br> BS UCLA, MS GT <br> daqianbao@gatech.edu
 img: assets/img/daqian.jpeg
 importance: 1
