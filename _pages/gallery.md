@@ -2,7 +2,7 @@
 layout: page
 permalink: /gallery/
 title: gallery
-description: Fun times with my group, class, and the world!
+description: fun times with the group, class, and others
 nav: true
 nav_order: 6
 ---
