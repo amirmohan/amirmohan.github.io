@@ -9,6 +9,13 @@ nav_order: 6
 
 <body>
 
+<h2>Geometric AI class<br> Fall 2023 </h2>
+<img src="../assets/img/GDL.jpg" width="600" height="600"  class="center">
+
+<br>
+<br>
+<br>
+
 <h2>Group dinner <br> Fall 2023 </h2>
 <img src="../assets/img/group2.jpg" width="600" height="600"  class="center">
 
