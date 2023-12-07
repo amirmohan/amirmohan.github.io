@@ -9,7 +9,7 @@ nav_order: 6
 
 <body>
 
-<h2>Geometric AI class<br> Fall 2023 </h2>
+<h2>Generative & Geometric AI class<br> Fall 2023 </h2>
 <img src="../assets/img/GDL.jpg" width="600" height="600"  class="center">
 
 <br>
