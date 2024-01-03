@@ -5,7 +5,7 @@ permalink: /group/
 description: 
 nav: true
 nav_order: 2
-display_categories: [PhD,MS,Alum]
+display_categories: [PhD,MS,Undergrad]
 horizontal: false
 ---
 <!-- pages/projects.md -->
@@ -55,3 +55,13 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+
+<hr>
+
+<p>
+Previous members: <br />
+Tony Tu  <br />
+Daqian Bao <br />
+Omkar Gowaikar  <br />
+</p>
