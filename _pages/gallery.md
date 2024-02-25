@@ -16,6 +16,13 @@ nav_order: 6
 <br>
 <br>
 
+<h2>Group welcome<br> Fall 2023 </h2>
+<img src="../assets/img/coda.jpg" width="600" height="400"  class="center">
+
+<br>
+<br>
+<br>
+
 <h2>Group dinner <br> Fall 2023 </h2>
 <img src="../assets/img/group2.jpg" width="600" height="600"  class="center">
 
