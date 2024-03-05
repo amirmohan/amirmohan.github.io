@@ -61,7 +61,6 @@ horizontal: false
 
 <p>
 Previous members: <br />
-Tony Tu  <br />
-Daqian Bao <br />
-Omkar Gowaikar  <br />
+Tony Tu (MS CS; now PhD student at GT)  <br />
+Omkar Gowaikar (MS ECE; now at NVIDIA)  <br />
 </p>
