@@ -29,4 +29,6 @@ I am interested in <b>Machine Learning</b>, <b>Signal Processing</b>, <b>Deep Le
 
 I pronounce my first name <a href='https://www.youtube.com/watch?v=T6GOCS5fmeg&t=4s'>/æmi:r'æli:/</a> and last name <a href='https://www.youtube.com/watch?v=6efdOZye2Ig'>/ægə'zɑdɛ/</a>.
 
-<b>Applicants (Undergrad/MS/PhD)</b>: If you have a solid foundation in <b>mathemathics</b> and <b>statistics</b>, are proficient in <b>programming</b>, and have a keen interest in <b>AI and Science</b>, please send your CV to me via email. Include 1-2 sentences explaining your interest in joining our group. We are always looking for new members in our group.
+<b>Applicants</b>: If you have a solid foundation in <b>mathemathics</b> and <b>statistics</b>, are proficient in <b>programming</b>, and have a keen interest in <b>AI Foundations for Science</b>, please send your CV to me via email. Include 1-2 sentences explaining your interest in joining our group. We are always looking for new members in our group.
+
+<b>For PhD applicants in Machine Learning</b>: To work with me you will need to apply to the ML PhD program under the School of ECE. 
