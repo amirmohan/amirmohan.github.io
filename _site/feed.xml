@@ -1,5 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-04-05T09:11:32-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>My personal website.
-</subtitle><entry><title type="html">gembio workshop</title><link href="http://localhost:4000/blog/2024/GemBio/" rel="alternate" type="text/html" title="gembio workshop" /><published>2024-01-18T00:00:00-05:00</published><updated>2024-01-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2024/GemBio</id><content type="html" xml:base="http://localhost:4000/blog/2024/GemBio/"><![CDATA[<p align="justify"> There will be an exciting workshop at ICLR this summer called the GEMBio Workshop, where I am honored to be one of the panelists. This workshop is unique in bringing together AI researchers and wet lab scientists, a growing collaboration in the field. The lineup of speakers is truly impressive. Please refer to the following link for more information, discussions, and updates. I highly encourage you to consider attending this innovative event: <a href="https://x.com/gembioworkshop/status/1744801231993008192?s=20">GEMBio workshop</a>:
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-04-14T17:10:30-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>My personal website.
+</subtitle><entry><title type="html">generative and geometric AI fall 2024</title><link href="http://localhost:4000/blog/2024/GGAI/" rel="alternate" type="text/html" title="generative and geometric AI fall 2024" /><published>2024-04-12T00:00:00-04:00</published><updated>2024-04-12T00:00:00-04:00</updated><id>http://localhost:4000/blog/2024/GGAI</id><content type="html" xml:base="http://localhost:4000/blog/2024/GGAI/"><![CDATA[<p align="justify"> I will be offering the ECE8803 course that I developed on Generative and Geometric AI in Fall 2024 for the second time. For this version, I am adding new lectures on LLMs. This course will be ideal for graduate students who already have a strong background in math, statistics, and machine learning. You will learn about the first principles of generative modeling and geometric deep learning. We then pivot toward LLMs.
+</p>
+
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/ggai-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/ggai-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/ggai-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/ggai.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>]]></content><author><name>Amirali Aghazadeh</name></author><summary type="html"><![CDATA[offering my course this fall]]></summary></entry><entry><title type="html">gembio workshop</title><link href="http://localhost:4000/blog/2024/GemBio/" rel="alternate" type="text/html" title="gembio workshop" /><published>2024-01-18T00:00:00-05:00</published><updated>2024-01-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2024/GemBio</id><content type="html" xml:base="http://localhost:4000/blog/2024/GemBio/"><![CDATA[<p align="justify"> There will be an exciting workshop at ICLR this summer called the GEMBio Workshop, where I am honored to be one of the panelists. This workshop is unique in bringing together AI researchers and wet lab scientists, a growing collaboration in the field. The lineup of speakers is truly impressive. Please refer to the following link for more information, discussions, and updates. I highly encourage you to consider attending this innovative event: <a href="https://x.com/gembioworkshop/status/1744801231993008192?s=20">GEMBio workshop</a>:
 </p>
 
 <figure>
