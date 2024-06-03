@@ -61,6 +61,7 @@ horizontal: false
 
 <p>
 Previous members: <br />
+Gautham Sankar (MS Bioinformatics; Intern at PNNL)  <br />
 Tony Tu (MS CS; now PhD student at GT)  <br />
 Omkar Gowaikar (MS ECE; now at NVIDIA)  <br />
 </p>
