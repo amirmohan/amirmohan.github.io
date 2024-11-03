@@ -22,7 +22,7 @@ profiles:
     content: about_tom.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: 12.jpg
+    image: william.jpg
     content: about_william.md
     image_circular: true # crops the image to make it circular
   - align: left
