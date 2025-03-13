@@ -26,14 +26,6 @@ profiles:
     content: about_william.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: savrina.jpeg
-    content: about_savrina.md
-    image_circular: true # crops the image to make it circular
-  - align: left
-    image: vidhya.jpeg
-    content: about_vidhya.md
-    image_circular: true # crops the image to make it circular
-  - align: left
     image: kunal.jpg
     content: about_kunal.md
     image_circular: true # crops the image to make it circular
@@ -44,5 +36,9 @@ profiles:
   - align: left
     image: sungwon.jpg
     content: about_sungwon.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: ethan.jpg
+    content: about_ethan.md
     image_circular: true # crops the image to make it circular
 ---
