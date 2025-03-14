@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/
 title: publications
 description: for more recent publications please check my google scholar.
-
 nav: true
 nav_order: 2
 ---
