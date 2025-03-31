@@ -29,14 +29,6 @@ I am interested in <b>Machine Learning</b>, <b>Signal Processing</b>, <b>Deep Le
 
 I pronounce my first name <a href='https://www.youtube.com/watch?v=T6GOCS5fmeg&t=4s'>/æmi:r'æli:/</a> and last name <a href='https://www.youtube.com/watch?v=6efdOZye2Ig'>/ægə'zɑdɛ/</a>.
 
-<hr>
+Watch my Sparsity, Epistasis, and Models of Fitness Functions at Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference and Algorithm (MIA)</a>
 
-<b>Applicants</b>: If you have a solid foundation in <b>mathemathics</b> and <b>statistics</b>, are proficient in <b>programming</b>, and have a keen interest in <b>AI Foundations for Science</b>, please send your CV to me via email. Include 1-2 sentences explaining your interest in joining our group. We are always looking for new members in our group.
 
-<b>For PhD applicants in Machine Learning</b>: To work with me, please apply to the ML PhD program under the School of ECE. You will be able to work me if you have a different home school (CS, CSE, etc.).
-
-<b>For PhD applicants in Bioengineering</b>: To work with me, please apply to the Bioengineering program under the School of ECE. You will be able to work me if you have a different home school (BME, CHBE, etc.).
-
-<b>For PhD applicants in Bioinformatics</b>: You will be able to work with me regardless of your home school (CSE, BME, etc.).
-
-<hr>
