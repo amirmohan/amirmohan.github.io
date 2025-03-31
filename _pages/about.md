@@ -29,6 +29,6 @@ I am interested in <b>Machine Learning</b>, <b>Signal Processing</b>, <b>Deep Le
 
 I pronounce my first name <a href='https://www.youtube.com/watch?v=T6GOCS5fmeg&t=4s'>/æmi:r'æli:/</a> and last name <a href='https://www.youtube.com/watch?v=6efdOZye2Ig'>/ægə'zɑdɛ/</a>.
 
-Watch my Sparsity, Epistasis, and Models of Fitness Functions at Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference and Algorithm (MIA)</a>
+Watch my talk on Sparsity, Epistasis, and Models of Fitness Functions at Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference and Algorithm (MIA)</a>
 
 
