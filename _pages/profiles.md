@@ -38,6 +38,10 @@ profiles:
     content: about_sungwon.md
     image_circular: true # crops the image to make it circular
   - align: left
+    image: varun.png
+    content: about_varun.md
+    image_circular: true # crops the image to make it circular
+  - align: left
     image: ethan.jpg
     content: about_ethan.md
     image_circular: true # crops the image to make it circular
