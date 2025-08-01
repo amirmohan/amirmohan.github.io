@@ -24,6 +24,12 @@ My research interests lie at the intersection of <b>Machine Learning</b>, <b>Sig
 
 I pronounce my first name <a href='https://www.youtube.com/watch?v=T6GOCS5fmeg&t=4s'>/æmi:r'æli:/</a> and last name <a href='https://www.youtube.com/watch?v=6efdOZye2Ig'>/ægə'zɑdɛ/</a>.
 
-Watch my talk on Sparsity, Epistasis, and Models of Fitness Functions at Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference and Algorithm (MIA)</a>
+Watch my talk on <u>Sparsity, Epistasis, and Models of Fitness Functions</u> at Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference and Algorithm (MIA)</a>
+
+Watch my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a>
+
+
+
+
 
 
