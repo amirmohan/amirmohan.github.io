@@ -20,7 +20,14 @@ social: true # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I serve as program faculty for the [Machine Learning](https://ml.gatech.edu/phd), [Bioinformatics](https://bioinformatics.gatech.edu), and [Bioengineering](https://bioengineering.gatech.edu) Ph.D. programs. I am also affiliated with the Institute for Data Engineering and Science (IDEaS) and the Parker H. Petit Institute for Bioengineering and Bioscience. Prior to Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and earned my Ph.D. at [Rice University](https://www.rice.edu/).
 
-My research lies at the intersection of <b>machine learning and AI</b>, <b>information and signal processing</b>, and <b>biological design and engineering</b>. I develop tools and algorithms that enable machines to learn, predict, and adapt to solve biological engineering problems.
+My research lies at the intersection of <b>machine learning and AI</b>, <b>information and signal processing</b>, and <b>biological design and engineering</b>. I develop tools and algorithms that enable machines to learn, predict, and adapt to solve most challenging biological science and engineering problems. Current focuses are:
+<ul>
+<li>ML/AI-guided protein design & optimizaiton</li>
+<li>Variant effect prediction</li>
+<li>Accelerated sequence generation</li>
+<li>Origins of life</li>
+<li>AI for protein imaging</li>
+</ul>
 
 I pronounce my first name <a href='https://www.youtube.com/watch?v=T6GOCS5fmeg&t=4s'>/æmi:r'æli:/</a> and last name <a href='https://www.youtube.com/watch?v=6efdOZye2Ig'>/ægə'zɑdɛ/</a>.
 
