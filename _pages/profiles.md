@@ -30,14 +30,6 @@ profiles:
     content: about_kunal.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: aryan.jpeg
-    content: about_aryan.md
-    image_circular: true # crops the image to make it circular
-  - align: left
-    image: sungwon.jpg
-    content: about_sungwon.md
-    image_circular: true # crops the image to make it circular
-  - align: left
     image: varun.png
     content: about_varun.md
     image_circular: true # crops the image to make it circular
