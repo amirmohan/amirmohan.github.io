@@ -25,7 +25,7 @@ My research lies at the intersection of <b>machine learning and AI</b>, <b>infor
 Some of the currect directions include:
 <ul>
 <li>Explainable and Scalable AI</li>
-<li>Accelerated and Guided Sequence Generation and Design</li>
+<li>Accelerated and Guided Protein Sequence Design and Optimization</li>
 <li>Agentic AI for Scientific Discovery</li>
 </ul>
 

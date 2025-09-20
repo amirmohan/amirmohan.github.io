@@ -1,1 +1,1 @@
-[Daniel Saeedi](https://daniel-saeedi.github.io) is a third year Ph.D. student in the School of `Electrical and Computer Engineering` at Georgia Tech. He has a B.S. in Electrical and Computer Engineering from the University of Tehran.
+[Daniel Saeedi](https://daniel-saeedi.github.io) is a third year Ph.D. student in the School of `Electrical and Computer Engineering` at Georgia Tech. Daniel is a recipient of the <b>AI Safety Initiative (AISI)</b> fellowship at GT. He has a B.S. in Electrical and Computer Engineering from the University of Tehran.
