@@ -24,7 +24,7 @@ My research lies at the intersection of <b>machine learning and AI</b>, <b>infor
 
 Some of the currect directions include:
 <ul>
-<li>Explainable, Scalable, and Safe AI</li>
+<li>Explainable, Scalable, and Safe AI4Science</li>
 <li>Accelerated and Guided Protein Sequence Generation and Design</li>
 <li>Agentic AI for Scientific Discovery</li>
 <li>Learning and Optimizing Fitness Functions</li>
