@@ -24,10 +24,9 @@ My research lies at the intersection of <b>machine learning and AI</b>, <b>infor
 
 Some of the currect directions include:
 <ul>
-<li>Explainable, Scalable, and Safe AI4Science</li>
-<li>Accelerated and Guided Protein Sequence Generation and Design</li>
-<li>Agentic AI for Scientific Discovery</li>
-<li>Learning and Optimizing Fitness Functions</li>
+<li>Explainable, scalable, and safe AI4Science</li>
+<li>ML/AI-guided protein design and optimization</li>
+<li>Agentic AI for scientific discovery</li>
 </ul>
 
 I pronounce my first name <a href='https://www.youtube.com/watch?v=T6GOCS5fmeg&t=4s'>/æmi:r'æli:/</a> and last name <a href='https://www.youtube.com/watch?v=6efdOZye2Ig'>/ægə'zɑdɛ/</a>.
