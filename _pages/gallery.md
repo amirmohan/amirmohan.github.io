@@ -8,6 +8,11 @@ nav_order: 5
 ---
 
 <figure>
+  <img src="../assets/img/neurips25.png" alt="Group photo" width="600">
+  <figcaption>NeurIPS 2025, San Diego.</figcaption>
+</figure>
+
+<figure>
   <img src="../assets/img/group.png" alt="Group photo" width="600">
   <figcaption>Group photo @ CODA (2025).</figcaption>
 </figure>
