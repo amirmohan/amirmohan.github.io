@@ -4,7 +4,7 @@ permalink: /media/
 title: media
 description: media coverage.
 nav: true
-nav_order: 8
+nav_order: 7
 ---
 
 <p>
@@ -14,73 +14,73 @@ has received extensive media coverage. Below is a list of news outlets that have
 
 <ul>
   <li>
-    <a href="https://www.space.com/could-life-on-mars-look-different-than-we-thought-article" target="_blank">
+    <a href="https://www.space.com/space-exploration/search-for-life/can-scientists-detect-life-without-knowing-what-it-looks-like-research-using-machine-learning-offers-a-new-way" target="_blank">
       <strong>Space.com</strong>
     </a>
     — Could life on Mars look different than we thought?
   </li>
   <li>
-    <a href="https://www.yahoo.com/news/can-scientists-detect-life-without-knowing-123456789.html" target="_blank">
+    <a href="https://nz.news.yahoo.com/scientists-detect-life-without-knowing-143220252.html" target="_blank">
       <strong>Yahoo! News</strong>
     </a>
     — Can scientists detect life without knowing what it looks like?
   </li>
   <li>
-    <a href="https://www.futura-sciences.com/science/news/nasa-devoile-lifetracer-algorithme-qui-pourrait-enfin-trancher-entre-vie-et-simple-chimie-8991/" target="_blank">
+    <a href="https://www.futura-sciences.com/sciences/actualites/astronomie-nasa-devoile-lifetracer-algorithme-pourrait-enfin-trancher-vie-simple-chimie-127732/#xtor%3DEPR-46-%5BEVT%5D-20251124-%5BACTU-La-Nasa-devoile-LifeTracer-%3A-un-algorithme-qui-pourrait-enfin-trancher-entre-vie-et-simple-chimie%5D" target="_blank">
       <strong>Futura‑Sciences</strong>
     </a>
     — La NASA dévoile LifeTracer (French)
   </li>
   <li>
-    <a href="https://www.terradaily.com/machine-learning-tool-distinguishes-signs-of-life/" target="_blank">
+    <a href="https://www.terradaily.com/reports/Machine_learning_tool_distinguishes_signs_of_life_from_non_living_compounds_in_space_samples_999.html" target="_blank">
       <strong>Terra Daily</strong>
     </a>
     — Machine learning tool distinguishes signs of life
   </li>
   <li>
-    <a href="https://www.spacedaily.com/machine-learning-to-scan-for-signs-of-extraterrestrial-life/" target="_blank">
-      <strong>SpaceDaily</strong>
+    <a href="https://theconversation.com/can-scientists-detect-life-without-knowing-what-it-looks-like-research-using-machine-learning-offers-a-new-way-271066" target="_blank">
+      <strong>The Conversation</strong>
     </a>
     — Machine learning to scan for signs of extraterrestrial life
   </li>
   <li>
-    <a href="https://oxfordjournals.altmetric.com/details/184666489/news" target="_blank">
+    <a href="https://www.msn.com/en-ie/money/other/could-life-on-mars-look-different-than-we-thought-this-latest-discovery-says-it-might/ar-AA1SGfNx" target="_blank">
       <strong>MSN</strong>
     </a>
-    — Syndicated coverage via The Conversation
+    — Could life on Mars look different than we thought? This latest discovery says it might
   </li>
   <li>
-    <a href="https://oxfordjournals.altmetric.com/details/184666489/news" target="_blank">
+    <a href="https://www.houstonchronicle.com/news/article/can-scientists-detect-life-without-knowing-what-21238702.php" target="_blank">
       <strong>Houston Chronicle</strong>
     </a>
-    — Republished expert analysis
+    — Can scientists detect life without knowing what it looks like?
   </li>
   <li>
-    <a href="https://oxfordjournals.altmetric.com/details/184666489/news" target="_blank">
+    <a href="https://www.sfgate.com/news/article/can-scientists-detect-life-without-knowing-what-21238702.php" target="_blank">
       <strong>SFGate</strong>
     </a>
     — Republished via The Conversation
   </li>
   <li>
-    <a href="https://oxfordjournals.altmetric.com/details/184666489/news" target="_blank">
+    <a href="https://www.seattlepi.com/news/can-scientists-detect-life-without-knowing-what-a21238702" target="_blank">
       <strong>Seattle Post‑Intelligencer</strong>
     </a>
     — Syndicated science coverage
   </li>
   <li>
-    <a href="https://oxfordjournals.altmetric.com/details/184666489/news" target="_blank">
+    <a href="https://www.miragenews.com/new-ai-method-finds-life-without-knowing-its-1589168/" target="_blank">
       <strong>Mirage News</strong>
     </a>
     — Machine learning approach to life detection
   </li>
   <li>
-    <a href="https://oxfordjournals.altmetric.com/details/184666489/news" target="_blank">
+    <a href="https://astrobiology.com/2025/11/tricorder-tech-machine-learning-to-scan-for-signs-of-extraterrestrial-life.html" target="_blank">
       <strong>Astrobiology.com</strong>
     </a>
     — Field‑specific coverage
   </li>
   <li>
-    <a href="https://oxfordjournals.altmetric.com/details/184666489/news" target="_blank">
+    <a href="https://www.thebrighterside.news/post/lifetracer-new-ai-tool-can-help-identify-life-in-martian-samples/" target="_blank">
       <strong>The Brighter Side</strong>
     </a>
     — AI tool for detecting extraterrestrial life
@@ -90,8 +90,8 @@ has received extensive media coverage. Below is a list of news outlets that have
 <p>
 A complete list of all 23 news outlets covering this work is available on
 <a href="https://oxfordjournals.altmetric.com/details/184666489/news" target="_blank">
-Altmetric
-</a>.
+PNAS Nexus Altmetric
+</a>page.
 </p>
 
 <hr />
@@ -114,7 +114,7 @@ Our paper <em>“Large dataset enables prediction of repair after CRISPR–Cas9 
     — Parker Institute gathers its investigators’ cell therapy technologies into cancer cell therapy newco ArsenalBio
   </li>
   <li>
-    <a href="https://scopeblog.stanford.edu/2019/09/05/crispr-algorithm-predicts-how-well-gene-editing-will-work/" target="_blank">
+    <a href="https://med.stanford.edu/news/insights/2019/07/crispr-algorithm-predicts-how-well-gene-editing-will-work.html" target="_blank">
       <strong>Scope Blog</strong>
     </a>
     — CRISPR algorithm predicts how well gene editing will work
@@ -136,8 +136,8 @@ Our work <em>“Epistatic Net allows the sparse spectral regularization of deep 
 
 <ul>
   <li>
-    <a href="https://www.genomeweb.com/gene-silencinggene-editing/systematic-crispr-cas9-analysis-leads-development-gene-editing-prediction" target="_blank">
-      <strong>GenomeWeb</strong>
+    <a href="https://towardsdatascience.com/inside-epistatic-nets-d9afeaf80689/?source=rss----7f60cf5620c9---4" target="_blank">
+      <strong>Towards Data Science</strong>
     </a>
     — Inside Epistatic Nets: Machine learning advances for modeling fitness functions
   </li>
@@ -164,7 +164,7 @@ Our paper <em>“Universal microbial diagnostics using random DNA probes”</em>
     — Random DNA + high-tech math = ‘universal microbial diagnostic’
   </li>
   <li>
-    <a href="https://www.houstonchronicle.com/news/houston-texas/education/article/Rice-and-Baylor-team-to-slow-the-spread-of-superbugs-9899927.php" target="_blank">
+    <a href="https://www.houstonchronicle.com/local/prognosis/article/New-probe-designed-by-Rice-and-Baylor-team-could-9368593.php" target="_blank">
       <strong>Houston Chronicle</strong>
     </a>
     — Rice and Baylor team to slow the spread of superbugs
