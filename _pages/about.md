@@ -26,8 +26,9 @@ Some of the currect directions include:
 <ul>
 <li>AI4Science</li>
 <li>Protein Design and Optimization</li>
-<li>Sparse and Spectral Learning</li>
+<li>AI Interpretability</li>
 <li>Agentic AI for Discovery</li>
+<li>Sequence-Function Relationship</li>
 <li>Discrete Diffusion Modeling</li>
 </ul>
 
