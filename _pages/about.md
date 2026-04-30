@@ -25,11 +25,14 @@ Prior to Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www
 Current research directions are:
 
 <ul>
-<li><strong>Foundations of ML and Gen AI:</strong> Diffusion models, accelerating model inference, and high-dimensional statistical learning</li>
+<li><strong>Core ML/AI:</strong> Diffusion models, accelerated inference, high-dim statistical learning</li>
 
-<li><strong>Mechanistic AI, Reasoning, and Safety:</strong> Interpretability, circuit-level analysis, verification, and Fourier-based explanation methods</li>
+<li><strong>Trustworthy AI:</strong> Explainability, Mech interp, Attribution methods</li>
 
-<li><strong> (Agentic) AI for Discovery and Bioengineering:</strong> Autonomous hypothesis generation, protein design and optimization, sequence–function modeling, cryo-EM, and origins-of-life studies</li>
+<li><strong> Agentic AI:</strong> Hypothesis generation, Validation, Multi-step reasoning </li>
+
+<li><strong> AI4Science: </strong>  AI4Biology, AI4Protein, AI4CryoEM, AI4Chemistry, AI4Astrobio </li> 
+
 </ul>
 
 I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>.

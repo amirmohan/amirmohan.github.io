@@ -113,6 +113,14 @@
 <lastmod>2026-02-21T09:38:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/news/announcement2026_scialog/</loc>
+<lastmod>2026-04-16T10:38:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/announcement2026_protomech/</loc>
+<lastmod>2026-04-30T10:38:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/blog/2024/tabs/</loc>
 <lastmod>2024-04-30T20:32:13-04:00</lastmod>
 </url>
@@ -126,6 +134,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/alum/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cv/</loc>

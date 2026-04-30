@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+
+<figure>
+  <img src="../assets/img/scialog.jpeg" alt="Group photo" width="600">
+  <figcaption>Scialog 2026, Tucson.</figcaption>
+</figure>
+
 <figure>
   <img src="../assets/img/neurips25.png" alt="Group photo" width="600">
   <figcaption>NeurIPS 2025, San Diego.</figcaption>
