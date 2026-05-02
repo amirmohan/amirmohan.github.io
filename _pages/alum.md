@@ -13,40 +13,35 @@ nav_order: 8
   
     <li>
       <strong>Aryan Musharaf</strong><br>
-      M.S. in Computer Science<br>
-      Now at Aurasell
+      M.S. in Computer Science, now at Aurasell
     </li>
   
   
     <li>
       <strong>Gautham Krisha</strong><br>
-      M.S. in Bioinfromatics<br>
-      Now at Heritable Agriculture
+      M.S. in Bioinfromatics, now at Heritable Agriculture
     </li>
     
 
     <li>
       <strong>Vidhya Kewale</strong><br>
-      M.S. in Bioinfromatics<br>
-      Now at Credigy
+      M.S. in Bioinfromatics, now at Credigy
     </li>
     
     <li>
       <strong>Savrina Salartash</strong><br>
-      M.S. in Bioinfromatics<br>
+      M.S. in Bioinfromatics, now at Cigna
     </li>
 
     
     <li>
       <strong>Omkar Gowaikar</strong><br>
-      M.S. in ECE<br>
-      Now at NVIDIA
+      M.S. in ECE,now at NVIDIA
     </li>
     
     <li>
       <strong>Tony Tu</strong><br>
-      M.S. in Computer Science<br>
-      Now Ph.D. at Georgia Tech
+      M.S. in Computer Science, now Ph.D. at Georgia Tech
     </li>
     
     
