@@ -8,6 +8,17 @@ nav_order: 7
 ---
 
 <p>
+Our paper <em>“Thinking microscopes: agentic AI and the future of electron microscopy”</em> published in <em>npj Computational Materials</em> covered in Georgia Tech news:
+<a href="https://research.gatech.edu/accelerating-discovery-ai" target="_blank">
+IDEaS and IMS.
+</a> 
+</p>
+
+
+<hr />
+
+
+<p>
 Our work <em>“Discriminating abiotic and biotic organics in meteorite and terrestrial samples using machine learning on mass spectrometry data”</em>
 has received extensive media coverage. Below is a list of news outlets that have featured this work:
 </p>

@@ -38,9 +38,10 @@ Current research directions are:
 I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>.
 
 <ul>
+<li> Watch my invited talk at FCCM 2026 on <u>Mechanistic Interpretation of PLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Next-Generation Adaptable Computing for Omics</a> (fast forward to 2:27:00). </li>
+<li> Watch my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a>. </li>
 <li> Watch my talk on <u>Sparsity, Epistasis, and Models of Protein Fitness Functions</u> at Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference and Algorithm (MIA)</a>. </li>
 
-<li> Watch my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a>. </li>
 </ul>
 
 
