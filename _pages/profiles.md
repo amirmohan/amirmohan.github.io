@@ -34,6 +34,10 @@ profiles:
     content: about_ayan.md
     image_circular: true # crops the image to make it circular
   - align: left
+    image: will.jpg
+    content: about_will.md
+    image_circular: true # crops the image to make it circular
+  - align: left
     image: edward.jpg
     content: about_edward.md
     image_circular: true # crops the image to make it circular
