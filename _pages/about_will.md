@@ -1,4 +1,4 @@
-William Deinzer is a third year undergraduate student in the school of `Computer Science` at Georgia Tech.
+William Deinzer is a forth year undergraduate student in the school of `Computer Science` at Georgia Tech.
 
 
 
