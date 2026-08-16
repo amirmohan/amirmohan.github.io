@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+<figure>
+  <img src="../assets/img/Foresight.png" alt="Group photo" width="600">
+  <figcaption>Foresight Node grantee 2026, San Francisco.</figcaption>
+</figure>
+
 
 <figure>
   <img src="../assets/img/scialog.jpeg" alt="Group photo" width="600">
