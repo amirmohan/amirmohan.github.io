@@ -23,7 +23,20 @@ I am an Assistant Professor in the School of Electrical and Computer Engineering
 Prior to joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and earned my Ph.D. from [Rice University](https://www.rice.edu/). 
 
 
-My research is in machine learning and generative AI. I develop principled methods for scientific discovery, motivated by challenging problems in biology and chemistry where models must operate over combinatorial spaces, learn from limited data, and ultimately withstand experimental validation.
+
+I am broadly interested in machine learning and AI for scientific discovery, with a focus on developing principled methods for learning, generation, interpretation, and reasoning in complex scientific domains. Recent interests are:
+
+<ul>
+  <li>Discrete generative and diffusion models</li>
+  <li>Spectral and sparse learning</li>
+  <li>Mechanistic interpretability of foundation models</li>
+  <li>Protein sequence–function modeling and design</li>
+  <li>Autonomous AI for science</li>
+  <li>Biosecurity</li>
+  <li>Scientific imaging</li>
+  <li>AI-enabled discovery in chemistry and the origins of life</li>
+</ul>
+
 
 
 I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>.
