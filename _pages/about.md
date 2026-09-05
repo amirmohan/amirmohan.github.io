@@ -28,13 +28,10 @@ I am broadly interested in machine learning and AI for scientific discovery, wit
 
 <ul>
   <li>Discrete generative and diffusion models</li>
-  <li>Spectral and sparse learning</li>
   <li>Mechanistic interpretability of foundation models</li>
-  <li>Protein sequence–function modeling and design</li>
-  <li>Autonomous AI for science</li>
-  <li>Biosecurity</li>
-  <li>Scientific imaging</li>
+  <li>Protein sequence–function modeling, representation learning, and design</li>
   <li>AI-enabled discovery in chemistry and the origins of life</li>
+  <li>cryo-EM protein imaging</li>
 </ul>
 
 
