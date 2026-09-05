@@ -20,21 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I serve as Program Faculty in the Ph.D. programs in [Machine Learning](https://ml.gatech.edu/phd), [Bioinformatics](https://bioinformatics.gatech.edu), and [Bioengineering](https://bioengineering.gatech.edu), and am affiliated with [IDEaS](https://research.gatech.edu/data), [IMS](https://matter-systems.gatech.edu), [SRI](https://space.gatech.edu), and the [Petit Institute for Bioengineering and Bioscience (IBB)](https://research.gatech.edu/bio).
 
-Prior to joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and earned my Ph.D. from [Rice University](https://www.rice.edu/). I develop machine learning foundations for biological and scientific discovery, with an emphasis on making models over combinatorial spaces more learnable, interpretable, and trustworthy. My work connects new methods in generative modeling, spectral learning, and mechanistic interpretability with applications in proteins, chemistry, and autonomous science.
+Prior to joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and earned my Ph.D. from [Rice University](https://www.rice.edu/). 
 
-<ul>
 
-<li><strong>Foundations of ML:</strong> Spectral and sparse methods for combinatorial learning; discrete generative and diffusion models</li>
+My research is in machine learning and generative AI. I develop principled methods for scientific discovery, motivated by challenging problems in biology and chemistry where models must operate over combinatorial spaces, learn from limited data, and ultimately withstand experimental validation.
 
-<li><strong>Interpretable & Trustworthy AI:</strong> Mechanistic circuits, attribution, steering, and safety of biological foundation models</li>
-
-<li><strong>ML for Proteins:</strong> Sequence–function landscapes, epistasis, representation learning, and protein design</li>
-
-<li><strong>Autonomous AI for Science:</strong> Agentic systems for hypothesis generation, scientific reasoning, and validation</li>
-
-<li><strong>AI for Scientific Discovery:</strong> Chemical reaction discovery, origin-of-life chemistry, astrobiology, and high-throughput cryo-EM</li>
-
-</ul>
 
 I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>.
 
