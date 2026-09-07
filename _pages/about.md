@@ -23,8 +23,7 @@ I am an Assistant Professor in the School of Electrical and Computer Engineering
 Prior to joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and earned my Ph.D. from [Rice University](https://www.rice.edu/). 
 
 
-
-I am broadly interested in machine learning and AI for scientific discovery, with a focus on developing principled methods for learning, generation, interpretation, and reasoning in complex scientific domains. Recent interests are:
+I am broadly interested in machine learning and AI for scientific discovery, with a focus on developing scalable methods for learning, generation, interpretation, and reasoning in complex combinatorial design spaces. Recent interests are:
 
 <ul>
   <li>Discrete generative and diffusion models</li>
@@ -36,11 +35,10 @@ I am broadly interested in machine learning and AI for scientific discovery, wit
 </ul>
 
 
-
-I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>.
+I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>. If you find it easier call me 
 
 <ul>
-<li>Watch my talk on <u>Mech Interp of pLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Next-Generation Adaptable Computing for Omics</a> (starts at 2:27:00).</li>
+<li>Watch my talk on <u>Mech Interp of pLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Adaptable Computing for Omics</a>.</li>
 
 <li>Watch my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a>.</li>
 
