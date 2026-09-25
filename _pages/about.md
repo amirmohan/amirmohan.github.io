@@ -27,11 +27,11 @@ I am broadly interested in machine learning and AI for scientific discovery, wit
 
 <ul>
   <li>Discrete generative and diffusion models</li>
-  <li>Mechanistic interpretability of foundation models</li>
   <li>Protein sequence–function modeling, representation learning, and design</li>
-  <li>Agentic AI safety and security</li>
+  <li>Mechanistic interpretability</li>
+  <li>Agentic AI, safety, and biosecurity</li>
+  <li>Computational methods for protein imaging: cryo-EM</li>
   <li>Automated discovery in chemistry and the origins of life</li>
-  <li>cryo-EM protein imaging</li>
 </ul>
 
 
