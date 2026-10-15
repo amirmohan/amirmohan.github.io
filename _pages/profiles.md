@@ -26,7 +26,7 @@ profiles:
     content: about_william.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: Lucy2.png
+    image: Lucy1.png
     content: about_lucy.md
     image_circular: true # crops the image to make it circular
   - align: left
