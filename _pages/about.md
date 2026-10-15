@@ -35,7 +35,7 @@ I am broadly interested in machine learning and AI for scientific discovery, wit
 </ul>
 
 
-I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>. If you find it easier call me 
+I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>. 
 
 <ul>
 <li>Watch my talk on <u>Mech Interp of pLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Adaptable Computing for Omics</a>.</li>
