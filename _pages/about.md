@@ -22,16 +22,16 @@ I am an Assistant Professor in the School of Electrical and Computer Engineering
 
 Prior to joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and earned my Ph.D. from [Rice University](https://www.rice.edu/). 
 
+I am broadly interested in machine learning, signal processing, and information systems for scientific discovery. My research develops scalable methods for inference, generation, interpretation, and decision-making in high-dimensional and combinatorial systems, with applications spanning biology, chemistry, and scientific imaging. Current research directions include:
 
-I am broadly interested in machine learning and AI for scientific discovery, with a focus on developing scalable methods for learning, generation, interpretation, and reasoning in complex combinatorial design spaces. Recent interests are:
 
 <ul>
-  <li>Discrete generative and diffusion models</li>
-  <li>Protein sequence–function modeling, representation learning, and design</li>
-  <li>Mechanistic interpretability</li>
-  <li>Agentic AI, safety, and biosecurity</li>
-  <li>Computational methods for protein imaging: cryo-EM</li>
-  <li>Automated discovery in chemistry and the origins of life</li>
+  <li>Discrete generative models and diffusion processes</li>
+  <li>Learning and design in high-dimensional sequence-function spaces</li>
+  <li>Mechanistic interpretability and controllable AI systems</li>
+  <li>Agentic and autonomous AI for scientific discovery</li>
+  <li>Computational sensing and inverse problems, including cryo-EM</li>
+  <li>AI safety and biosecurity for scientific AI systems</li>
 </ul>
 
 
