@@ -22,27 +22,25 @@ I am an Assistant Professor in the School of Electrical and Computer Engineering
 
 Prior to joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and earned my Ph.D. from [Rice University](https://www.rice.edu/). 
 
-I am broadly interested in machine learning, signal processing, and information systems for scientific discovery. My research develops scalable methods for learning, inference, interpretation, and decision-making in complex physical and combinatorial systems, with applications spanning biology, chemistry, and scientific imaging. Current research directions include:
+My research focuses on the **algorithmic foundations of AI for scientific discovery**, particularly in molecular biology and chemistry. Drawing on machine learning, signal processing, information theory, and randomized algorithms, my group develops methods to learn protein function from limited experimental data, understand and control foundation models, enable efficient sequence generation, and secure scientific reasoning. Current research directions include:
 
-
-<ul>
-  <li>Discrete generative models and diffusion processes</li>
-  <li>Learning and design in high-dimensional sequence-function spaces</li>
-  <li>Mechanistic interpretability and controllable AI systems</li>
-  <li>Agentic and autonomous AI for scientific discovery</li>
-  <li>Computational sensing and inverse problems, including cryo-EM</li>
-  <li>AI safety and biosecurity for scientific AI systems</li>
-</ul>
+- Mechanistic interpretability and control of biological foundation models
+- Efficient and controllable discrete generative algorithms
+- Scientific agents, autonomous discovery, and biological AI safety
+- Computational sensing and inverse problems for cryo-EM and electron ptychography
 
 
 I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>. 
 
 <ul>
-<li>Watch my talk on <u>Mech Interp of pLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Adaptable Computing for Omics</a>.</li>
+<li> (2026) my talk on <u>Tale of Three Sparsities in AI for Bio</u>:  <a href='https://stanford.zoom.us/rec/share/pIChAgqXnH7NZDy5SDTXY9uBUOfYSBKIZ3inUXeNousjUaXQxha-QPcNREWXeXc.MAwBfuUza6bGzkzd'>Stanford AI+Biomedicine Seminar</a> (Pass: M+pg%s8c).</li>
 
-<li>Watch my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a>.</li>
 
-<li>Watch my talk on <u>Epistasis and Protein Fitness Modeling</u> at the Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference, and Algorithms (MIA)</a>.</li>
+<li>(2026) my talk on <u>Mech Interp of pLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Adaptable Computing for Omics</a>.</li>
+
+<li>(2025) my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a>.</li>
+
+<li>(2023) my talk on <u>Epistasis and Protein Fitness Modeling</u> at the Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference, and Algorithms (MIA)</a>.</li>
 </ul>
 
 
