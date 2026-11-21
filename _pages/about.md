@@ -24,8 +24,8 @@ Before joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https
 
 My research focuses on the **algorithmic foundations of AI for Science**. My group develops methods to understand and control scientific AI systems, accelerate generative modeling, and enable sensing and inference in biological and physical systems. Current research directions include:
 
-- Mechanistic interpretability and control of biological foundation models
-- Efficient and controllable discrete generative algorithms
+- Mechanistic interpretability and steering of protein foundation models
+- Efficient and controllable discrete generative models
 - Scientific agents, autonomous discovery, and AI biosecurity
 - Computational sensing and inverse problems for cryo-EM and electron ptychography
 
@@ -33,14 +33,15 @@ My research focuses on the **algorithmic foundations of AI for Science**. My gro
 I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <strong>Ah-gah-zah-deh</strong>. 
 
 <ul>
-<li> (2026) my talk on <u>three faces of sparsity in trustworthy AI for bio</u>:  <a href='https://stanford.zoom.us/rec/share/pIChAgqXnH7NZDy5SDTXY9uBUOfYSBKIZ3inUXeNousjUaXQxha-QPcNREWXeXc.MAwBfuUza6bGzkzd'>Stanford AI+Biomedicine Seminar</a> (Pass: M+pg%s8c).</li>
+<li> (2026) my talk on <u>Three Faces of Sparsity in AI for Proteins</u>:  <a href='https://stanford.zoom.us/rec/share/pIChAgqXnH7NZDy5SDTXY9uBUOfYSBKIZ3inUXeNousjUaXQxha-QPcNREWXeXc.MAwBfuUza6bGzkzd'>Stanford AI+Biomedicine Seminar</a> (Pass: M+pg%s8c)</li>
 
+<li> (2026) my talk on <u> Human-Machine Collaboration for Science Discovery</u>: <a href='https://www.youtube.com/watch?v=AYND4FjvM2E&themeRefresh=1'>NASA Ames Research Center</a> </li>
 
-<li>(2026) my talk on <u>Mech Interp of pLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Adaptable Computing for Omics</a>.</li>
+<li>(2026) my talk on <u>Mech Interp of pLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Adaptable Computing for Omics</a></li>
 
-<li>(2025) my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a>.</li>
+<li>(2025) my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a></li>
 
-<li>(2023) my talk on <u>Epistasis and Protein Fitness Modeling</u> at the Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference, and Algorithms (MIA)</a>.</li>
+<li>(2023) my talk on <u>Epistasis and Protein Fitness Modeling</u> at the Broad Institute: <a href='https://www.youtube.com/watch?v=gxYd1cHmbl8'>Models, Inference, and Algorithms (MIA)</a></li>
 </ul>
 
 
