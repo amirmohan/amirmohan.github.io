@@ -22,7 +22,7 @@ I am an Assistant Professor in the School of Electrical and Computer Engineering
 
 Before joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and I earned my Ph.D. from [Rice University](https://www.rice.edu/). 
 
-My research focuses on the **algorithmic foundations of AI for Science**. My group develops methods to understand and control scientific AI systems, accelerate generative modeling, and enable sensing and inference in biological and physical systems. Current research directions include:
+My research focuses on the **algorithmic foundations of AI for Biology**. My group develops methods to understand and control scientific AI systems, accelerate generative modeling, and enable sensing and inference at the molecular scale. Current research directions include:
 
 - Mechanistic interpretability and steering of protein foundation models
 - Efficient and controllable discrete generative models
@@ -35,9 +35,9 @@ I pronounce my first name <strong>Ah-meer-ah-lee</strong> and my last name <stro
 <ul>
 <li> (2026) my talk on <u>Three Faces of Sparsity in AI for Proteins</u>:  <a href='https://stanford.zoom.us/rec/share/pIChAgqXnH7NZDy5SDTXY9uBUOfYSBKIZ3inUXeNousjUaXQxha-QPcNREWXeXc.MAwBfuUza6bGzkzd'>Stanford AI+Biomedicine Seminar</a> (Pass: M+pg%s8c)</li>
 
-<li> (2026) my talk on <u> Human-Machine Collaboration for Science Discovery</u>: <a href='https://www.youtube.com/watch?v=AYND4FjvM2E&themeRefresh=1'>NASA Ames Research Center</a> </li>
+<li> (2026) my talk on <u> Human-Machine Collaboration for Origin-of-Life Research</u>: <a href='https://www.youtube.com/watch?v=AYND4FjvM2E&themeRefresh=1'>NASA Ames Research Center</a> </li>
 
-<li>(2026) my talk on <u>Mech Interp of pLMs</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Adaptable Computing for Omics</a></li>
+<li>(2026) my talk on <u>Mechanistic Interpretability of Protein Language Models</u>: <a href='https://www.youtube.com/watch?app=desktop&v=jUJqOY7wC9w'>Adaptable Computing for Omics</a></li>
 
 <li>(2025) my talk on <u>Agentic AI for Hypothesis Generation</u>: <a href='https://iclr.cc/virtual/2025/33150'>ICLR Agentic AI Workshop</a></li>
 
