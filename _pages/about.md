@@ -22,14 +22,14 @@ I am an Assistant Professor in the School of Electrical and Computer Engineering
 
 Before joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and I earned my Ph.D. from [Rice University](https://www.rice.edu/). 
 
-My group is building the foundation for AI to read, write, and measure biology.
+My group is building the foundation of AI to read, write, and measure biology:
 <ul>
-  <li><strong>Read:</strong> opening up protein foundation models to learn what they know</li>
-  <li><strong>Write:</strong> fast, controllable generation of sequences and molecules</li>
-  <li><strong>Measure:</strong> sensing more of the molecular world from fewer measurements</li>
-  <li><strong>Discover:</strong> AI agents that propose and test their own hypotheses</li>
+  <li> opening up protein foundation models to learn what they know</li>
+  <li> fast, controllable generation of sequences and molecules</li>
+  <li> sensing more of the molecular world from fewer measurements</li>
+  <li> AI agents that propose and test their own hypotheses</li>
 </ul>
-If you love machine learning, algorithms, signal processing, and inverse problems, you don't need a biology background to join the group. Watch my talks here:
+If you love machine learning, algorithms, inverse problems, and useful theory, you don't need a biology background to join the group. Watch my talks here:
 
 <ul>
 <li> (2026) Three Faces of Sparsity in AI for Proteins:  <a href='https://stanford.zoom.us/rec/share/pIChAgqXnH7NZDy5SDTXY9uBUOfYSBKIZ3inUXeNousjUaXQxha-QPcNREWXeXc.MAwBfuUza6bGzkzd'>Stanford AI+Biomedicine Seminar</a> (Pass: M+pg%s8c)</li>
