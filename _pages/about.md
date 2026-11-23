@@ -22,7 +22,9 @@ I am an Assistant Professor in the School of Electrical and Computer Engineering
 
 Before joining Georgia Tech, I was a postdoctoral researcher at [Stanford](https://www.stanford.edu) and [UC Berkeley](https://www.berkeley.edu), and I earned my Ph.D. from [Rice University](https://www.rice.edu/). 
 
-My research focuses on the **algorithmic foundations of AI for Biology**. My group develops methods to understand and control scientific AI systems, accelerate generative modeling, and enable sensing and inference at the molecular scale. Current research directions include:
+My research develops the **algorithmic foundations of ML/AI for biology**. My group traces how biological foundation models represent information and use it to make predictions, develops methods to steer their behavior, and designs faster sampling algorithms for discrete generative models. We also develop AI-enabled inverse methods that recover more information about biological samples from fewer measurements, across microscopy, mutational scanning, and mass spectrometry.
+
+Current research directions include:
 
 - Mechanistic interpretability and steering of protein foundation models
 - Efficient and controllable discrete generative models
