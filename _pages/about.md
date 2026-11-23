@@ -26,8 +26,8 @@ My group is building the foundation of AI to read, write, and measure biology:
 <ul>
   <li> opening up protein foundation models to learn what they know</li>
   <li> fast, controllable generation of sequences and molecules</li>
-  <li> sensing more of the molecular world from fewer measurements</li>
-  <li> AI agents that propose and test their own hypotheses</li>
+  <li> sensing/imaging more of the molecular world from fewer measurements</li>
+  <li>  safe and secure AI agents that propose scientific hypotheses</li>
 </ul>
 If you love machine learning, algorithms, inverse problems, and useful theory, you don't need a biology background to join the group. Watch my talks here:
 
