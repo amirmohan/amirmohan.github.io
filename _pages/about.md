@@ -29,7 +29,7 @@ My group is building the foundation for AI to read, write, and measure biology.
   <li><strong>Measure:</strong> sensing more of the molecular world from fewer measurements</li>
   <li><strong>Discover:</strong> AI agents that propose and test their own hypotheses</li>
 </ul>
-If you love machine learning, algorithms, signal processing, and inverse problems, you don't need a biology background to join the group. View some of my talks here:
+If you love machine learning, algorithms, signal processing, and inverse problems, you don't need a biology background to join the group. Watch my talks here:
 
 <ul>
 <li> (2026) Three Faces of Sparsity in AI for Proteins:  <a href='https://stanford.zoom.us/rec/share/pIChAgqXnH7NZDy5SDTXY9uBUOfYSBKIZ3inUXeNousjUaXQxha-QPcNREWXeXc.MAwBfuUza6bGzkzd'>Stanford AI+Biomedicine Seminar</a> (Pass: M+pg%s8c)</li>
